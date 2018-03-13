@@ -119,5 +119,15 @@ namespace WindowsFormsApp2
             principalMenu.Show();
             this.Hide();
         }
+
+        private void btnReturnPrincipalMenu_MouseEnter(object sender, EventArgs e)
+        {
+            objImage.effectEnter(btnReturnPrincipalMenu, 15);
+        }
+
+        private void btnReturnPrincipalMenu_MouseLeave(object sender, EventArgs e)
+        {
+            objImage.effectNormal(btnReturnPrincipalMenu, 14);
+        }
     }
 }

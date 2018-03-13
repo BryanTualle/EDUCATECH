@@ -20,11 +20,13 @@ namespace WindowsFormsApp2
 
         private string[] efectsNormal = new string[] { "btnTresCerditos_M1.png", "btnHanselGrettel_M1.png", "btnHelp_M1.png",
             "btnHome_M1.png", "btnReturn_M1.png", "btnNext_M1.png", "btnPreview_M1.png", "btnContinue_M1.png", "btnTryAgain_M1.png",
-            "btnPlay_M1.png", "btnCheck_M1.png", "btnExit_M1.png" };
+            "btnPlay_M1.png", "btnCheck_M1.png", "btnExit_M1.png", "btnGame_M1.png", "btnExitProgram_M1.png", "btnHomePrincipal_M1.png" };
 
         private string[] efectsEnter = new string[] { "btnTresCerditos_M2.png", "btnHanselGrettel_M2.png", "btnHelp_M2.png",
             "btnHome_M2.png", "btnReturn_M2.png", "btnNext_M2.png", "btnPreview_M2.png", "btnContinue_M2.png", "btnTryAgain_M2.png",
-            "btnPlay_M2.png", "btnCheck_M2.png", "btnExit_M2.png","helpEvaluation.gif"  };
+            "btnPlay_M2.png", "btnCheck_M2.png", "btnExit_M2.png","helpEvaluation.gif", "btnGame_M2.png", "btnExitProgram_M2.png",
+            "btnHomePrincipal_M2.png" };
+
         private string[] number = new string[] {"uno.jpg","dos.jpg","tres.jpg","cuatro.jpg","cinco.jpg","seis.jpg","siete.jpg","ocho.jpg" };
         //private string[] efectsPushHold = new string[] { "btnTresCerditos_M3.png", "btnHanselGrettel_M3.png", "btnHelp_M3.png", "btnHome_M3.png", "btnReturn_M3.png" };
 

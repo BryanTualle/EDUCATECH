@@ -14,8 +14,8 @@ namespace WindowsFormsApp2
     {
         #region attributes
         private CInitializeImage imag = new CInitializeImage();
-       private  CTimer time = new CTimer();
-       private frmEvaluation ObjForm;
+        private  CTimer time = new CTimer();
+        private frmEvaluation ObjForm;
         private int positionImage;
         private int orig;
         private Boolean control;

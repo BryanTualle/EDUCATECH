@@ -14,6 +14,7 @@ namespace WindowsFormsApp2.ec.edu.espe.gui
 {
     public partial class frmMenuBoti : Form
     {
+        private CInitializeImage objImage = new CInitializeImage();
 
         static bool flag = false;
         static bool flag2 = false;
@@ -93,6 +94,28 @@ namespace WindowsFormsApp2.ec.edu.espe.gui
             frmBotiAprendeNivel3 tercerNivel = new frmBotiAprendeNivel3();
             this.Close();
             tercerNivel.Show();
+        }
+
+        private void btnReturnPrincipalMenu_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            HelpFalse.HelpOffSound(picHelp);
+            bool flagSoundGame = true;
+            CSound soundGame = new CSound();
+            soundGame.SoundGame(flagSoundGame);
+            frmMenuPrincipal principalMenu = new frmMenuPrincipal();
+            principalMenu.Show();
+            // this.Hide();
+        }
+
+        private void btnReturnPrincipalMenu_MouseEnter(object sender, EventArgs e)
+        {
+            objImage.effectEnter(btnReturnPrincipalMenu, 15);
+        }
+
+        private void btnReturnPrincipalMenu_MouseLeave(object sender, EventArgs e)
+        {
+            objImage.effectNormal(btnReturnPrincipalMenu, 14);
         }
     }
 }

@@ -747,5 +747,14 @@
   <ItemGroup>
     <None Include="Resources\botiquin.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\btnGame_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\btnExitProgram_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\btnHomePrincipal_M1.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
