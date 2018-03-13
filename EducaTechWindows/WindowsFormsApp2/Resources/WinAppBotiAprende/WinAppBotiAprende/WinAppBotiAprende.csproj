@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{471545E2-9B5B-4C34-B544-08326061947E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WinAppBotiAprende</RootNamespace>
+    <AssemblyName>WinAppBotiAprende</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CBotiAprendeNivelI.cs" />
+    <Compile Include="CBotiAprendeNivelII.cs" />
+    <Compile Include="CBotiAprendeNivelIII.cs" />
+    <Compile Include="CScore.cs" />
+    <Compile Include="CSound.cs" />
+    <Compile Include="frmBotiAprendeNivel2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBotiAprendeNivel2.Designer.cs">
+      <DependentUpon>frmBotiAprendeNivel2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBotiAprendeNivel1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBotiAprendeNivel1.Designer.cs">
+      <DependentUpon>frmBotiAprendeNivel1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBotiAprendeNivel3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBotiAprendeNivel3.Designer.cs">
+      <DependentUpon>frmBotiAprendeNivel3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenuBoti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenuBoti.Designer.cs">
+      <DependentUpon>frmMenuBoti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmBotiAprendeNivel2.resx">
+      <DependentUpon>frmBotiAprendeNivel2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBotiAprendeNivel1.resx">
+      <DependentUpon>frmBotiAprendeNivel1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBotiAprendeNivel3.resx">
+      <DependentUpon>frmBotiAprendeNivel3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenuBoti.resx">
+      <DependentUpon>frmMenuBoti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\frmPrincipalBotiAprende.resx">
+      <DependentUpon>frmPrincipalBotiAprende.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\frmPrincipalBotiAprende.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\frmPrincipalBotiAprende.Designer.cs">
+      <DependentUpon>frmPrincipalBotiAprende.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ap.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botiquin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botiquin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\repplay.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\soundGame.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\education.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Enter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WALLPAPER.jpg" />
+    <None Include="Resources\WALL2.jpg" />
+    <None Include="Resources\WALL.jpg" />
+    <None Include="Resources\a.png" />
+    <None Include="bin\Debug\images\candado.png" />
+    <Content Include="Resources\bad.png" />
+    <None Include="Resources\Botiquin.wav" />
+    <None Include="Resources\Bueno.wav" />
+    <None Include="Resources\Excelente.wav" />
+    <None Include="Resources\botiAprende.gif" />
+    <None Include="Resources\btnReturn_M1.png" />
+    <None Include="Resources\fondoMedicina.jpg" />
+    <None Include="Resources\fondoBoti.jpg" />
+    <None Include="Resources\exit.png" />
+    <None Include="Resources\FONDO PRINCIPAL.jpg" />
+    <None Include="Resources\FONDO PRINCIPAL2.jpg" />
+    <None Include="Resources\go.png" />
+    <Content Include="Resources\good.png" />
+    <None Include="Resources\img11.jpg" />
+    <None Include="Resources\Help.wav" />
+    <None Include="Resources\med.jpg" />
+    <None Include="Resources\med1.jpg" />
+    <None Include="Resources\med2.jpg" />
+    <None Include="Resources\med3.png" />
+    <None Include="Resources\h.png" />
+    <None Include="Resources\home2.png" />
+    <None Include="Resources\hom.png" />
+    <None Include="Resources\lock-2.png" />
+    <None Include="Resources\home.png" />
+    <None Include="Resources\juguemos.png" />
+    <None Include="Resources\juguemos1.png" />
+    <None Include="Resources\juguemos2.png" />
+    <None Include="Resources\juguemos3.png" />
+    <Content Include="Resources\nivel1.png" />
+    <Content Include="Resources\nivel2.png" />
+    <None Include="Resources\nivel2_lock.jpg" />
+    <None Include="Resources\nivel2lock.jpg" />
+    <Content Include="Resources\nivel3.png" />
+    <None Include="Resources\playgo.png" />
+    <None Include="Resources\playgo1.png" />
+    <None Include="Resources\nivel3lock.jpg" />
+    <None Include="Resources\Off.png" />
+    <None Include="Resources\play.jpg" />
+    <None Include="Resources\Play.png" />
+    <Content Include="Resources\point.png" />
+    <None Include="Resources\por.jpg" />
+    <Content Include="Resources\Portada.png" />
+    <None Include="Resources\PrincipalBotiAprende.jpg" />
+    <None Include="Resources\Regular.wav" />
+    <None Include="Resources\sound1.wav" />
+    <None Include="Resources\sound2.wav" />
+    <None Include="Resources\sound3.wav" />
+    <None Include="Resources\sound4.wav" />
+    <None Include="Resources\sound5.wav" />
+    <None Include="Resources\sound6.wav" />
+    <None Include="Resources\sound7.wav" />
+    <None Include="Resources\sound8.wav" />
+    <None Include="Resources\sound9.wav" />
+    <None Include="Resources\sound10.wav" />
+    <None Include="Resources\sound11.wav" />
+    <None Include="Resources\PrincipalBotiAprende1.jpg" />
+    <None Include="Resources\PrincipalBoti.jpg" />
+    <None Include="Resources\PrincipalBoti2.jpg" />
+    <None Include="Resources\t.png" />
+    <None Include="Resources\r.png" />
+    <None Include="Resources\principalMenu.png" />
+    <None Include="Resources\sound-157173_960_720.png" />
+    <None Include="Resources\SoundOff.png" />
+    <Content Include="Resources\Titulo.png" />
+    <None Include="Resources\Titulo1.png" />
+    <Content Include="Resources\very good.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

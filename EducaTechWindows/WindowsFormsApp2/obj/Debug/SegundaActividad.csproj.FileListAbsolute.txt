@@ -1,0 +1,291 @@
+C:\Users\usuario\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\usuario\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\usuario\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\usuario\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmDosChanchitos.resources
+C:\Users\usuario\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmTresCerditosParte1.resources
+C:\Users\usuario\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmTresCerditosParte2.resources
+C:\Users\usuario\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\usuario\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.GenerateResource.Cache
+C:\Users\usuario\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\usuario\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\usuario\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csprojResolveAssemblyReference.cache
+C:\Users\BRYAN TUALLE\Documents\GitHub\Proyecto-Integrado-1\proyectoInt\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\BRYAN TUALLE\Documents\GitHub\Proyecto-Integrado-1\proyectoInt\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\BRYAN TUALLE\Documents\GitHub\Proyecto-Integrado-1\proyectoInt\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\BRYAN TUALLE\Documents\GitHub\Proyecto-Integrado-1\proyectoInt\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csprojResolveAssemblyReference.cache
+C:\Users\BRYAN TUALLE\Documents\GitHub\Proyecto-Integrado-1\proyectoInt\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmDosChanchitos.resources
+C:\Users\BRYAN TUALLE\Documents\GitHub\Proyecto-Integrado-1\proyectoInt\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmTresCerditosParte2.resources
+C:\Users\BRYAN TUALLE\Documents\GitHub\Proyecto-Integrado-1\proyectoInt\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\BRYAN TUALLE\Documents\GitHub\Proyecto-Integrado-1\proyectoInt\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.GenerateResource.Cache
+C:\Users\BRYAN TUALLE\Documents\GitHub\Proyecto-Integrado-1\proyectoInt\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.CoreCompileInputs.cache
+C:\Users\BRYAN TUALLE\Documents\GitHub\Proyecto-Integrado-1\proyectoInt\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\BRYAN TUALLE\Documents\GitHub\Proyecto-Integrado-1\proyectoInt\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\BRYAN TUALLE\Documents\GitHub\Proyecto-Integrado-1\proyectoInt\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmHanselGretel.resources
+C:\Users\BRYAN TUALLE\Documents\GitHub\Proyecto-Integrado-1\Actividad 2 del 08-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\BRYAN TUALLE\Documents\GitHub\Proyecto-Integrado-1\Actividad 2 del 08-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\BRYAN TUALLE\Documents\GitHub\Proyecto-Integrado-1\Actividad 2 del 08-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\BRYAN TUALLE\Documents\GitHub\Proyecto-Integrado-1\Actividad 2 del 08-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csprojResolveAssemblyReference.cache
+C:\Users\BRYAN TUALLE\Documents\GitHub\Proyecto-Integrado-1\Actividad 2 del 08-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmHanselGretel.resources
+C:\Users\BRYAN TUALLE\Documents\GitHub\Proyecto-Integrado-1\Actividad 2 del 08-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\BRYAN TUALLE\Documents\GitHub\Proyecto-Integrado-1\Actividad 2 del 08-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.GenerateResource.Cache
+C:\Users\BRYAN TUALLE\Documents\GitHub\Proyecto-Integrado-1\Actividad 2 del 08-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.CoreCompileInputs.cache
+C:\Users\BRYAN TUALLE\Documents\GitHub\Proyecto-Integrado-1\Actividad 2 del 08-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\BRYAN TUALLE\Documents\GitHub\Proyecto-Integrado-1\Actividad 2 del 08-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\BRYAN TUALLE\Documents\GitHub\Proyecto-Integrado-1\Actividad 2 del 08-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMenuJirenSec.resources
+C:\Users\BRYAN TUALLE\Documents\GitHub\Proyecto-Integrado-1\Actividad 2 del 08-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmEvaluation.resources
+C:\Users\BRYAN TUALLE\Documents\GitHub\Proyecto-Integrado-1\Actividad 2 del 08-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmTresCerditos.resources
+F:\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csprojResolveAssemblyReference.cache
+F:\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmEvaluation.resources
+F:\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmHanselGretel.resources
+F:\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMenuJirenSec.resources
+F:\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmTresCerditos.resources
+F:\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.GenerateResource.Cache
+F:\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.CoreCompileInputs.cache
+F:\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\usuario\Desktop\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmEvaluation.resources
+C:\Users\usuario\Desktop\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmHanselGretel.resources
+C:\Users\usuario\Desktop\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMenuJirenSec.resources
+C:\Users\usuario\Desktop\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmTresCerditos.resources
+C:\Users\usuario\Desktop\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\usuario\Desktop\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\usuario\Desktop\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\usuario\Desktop\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\usuario\Desktop\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\usuario\Desktop\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\BRYAN TUALLE\Downloads\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\BRYAN TUALLE\Downloads\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\BRYAN TUALLE\Downloads\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\BRYAN TUALLE\Downloads\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csprojResolveAssemblyReference.cache
+C:\Users\BRYAN TUALLE\Downloads\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmEvaluation.resources
+C:\Users\BRYAN TUALLE\Downloads\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmHanselGretel.resources
+C:\Users\BRYAN TUALLE\Downloads\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMenuJirenSec.resources
+C:\Users\BRYAN TUALLE\Downloads\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmTresCerditos.resources
+C:\Users\BRYAN TUALLE\Downloads\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\BRYAN TUALLE\Downloads\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.GenerateResource.Cache
+C:\Users\BRYAN TUALLE\Downloads\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.CoreCompileInputs.cache
+C:\Users\BRYAN TUALLE\Downloads\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\BRYAN TUALLE\Downloads\Actividad 2 del 15-02-2018 JirenSec\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\usuario\Desktop\gitproyecto\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\usuario\Desktop\gitproyecto\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\usuario\Desktop\gitproyecto\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\usuario\Desktop\gitproyecto\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\gitproyecto\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmEvaluation.resources
+C:\Users\usuario\Desktop\gitproyecto\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMenuJirenSec.resources
+C:\Users\usuario\Desktop\gitproyecto\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmStory.resources
+C:\Users\usuario\Desktop\gitproyecto\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\usuario\Desktop\gitproyecto\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\gitproyecto\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\gitproyecto\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\usuario\Desktop\gitproyecto\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\BRYAN TUALLE\Documents\GitHub\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\BRYAN TUALLE\Documents\GitHub\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\BRYAN TUALLE\Documents\GitHub\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\BRYAN TUALLE\Documents\GitHub\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csprojResolveAssemblyReference.cache
+C:\Users\BRYAN TUALLE\Documents\GitHub\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmEvaluation.resources
+C:\Users\BRYAN TUALLE\Documents\GitHub\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMenuJirenSec.resources
+C:\Users\BRYAN TUALLE\Documents\GitHub\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmStory.resources
+C:\Users\BRYAN TUALLE\Documents\GitHub\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\BRYAN TUALLE\Documents\GitHub\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.GenerateResource.Cache
+C:\Users\BRYAN TUALLE\Documents\GitHub\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.CoreCompileInputs.cache
+C:\Users\BRYAN TUALLE\Documents\GitHub\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\BRYAN TUALLE\Documents\GitHub\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\usuario\Desktop\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\usuario\Desktop\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\usuario\Desktop\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\usuario\Desktop\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmEvaluation.resources
+C:\Users\usuario\Desktop\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMenuJirenSec.resources
+C:\Users\usuario\Desktop\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmStory.resources
+C:\Users\usuario\Desktop\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\usuario\Desktop\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\usuario\Desktop\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\usuario\Desktop\proyecto\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\usuario\Desktop\proyecto\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\usuario\Desktop\proyecto\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\usuario\Desktop\proyecto\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\proyecto\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmEvaluation.resources
+C:\Users\usuario\Desktop\proyecto\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMenuJirenSec.resources
+C:\Users\usuario\Desktop\proyecto\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmStory.resources
+C:\Users\usuario\Desktop\proyecto\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\usuario\Desktop\proyecto\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\proyecto\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\proyecto\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\usuario\Desktop\proyecto\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\usuario\Desktop\proyecto\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Interop.WMPLib.dll
+C:\Users\usuario\Desktop\proyecto\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\usuario\Desktop\proyecto\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Interop.WMPLib.dll
+C:\Users\usuario\Desktop\proyecto\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\usuario\Desktop\proyecto\final\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.ResolveComReference.cache
+C:\Users\BRYAN TUALLE\Music\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\BRYAN TUALLE\Music\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\BRYAN TUALLE\Music\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\BRYAN TUALLE\Music\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MACTrackBarLib.dll
+C:\Users\BRYAN TUALLE\Music\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Interop.WMPLib.dll
+C:\Users\BRYAN TUALLE\Music\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\BRYAN TUALLE\Music\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csprojResolveAssemblyReference.cache
+C:\Users\BRYAN TUALLE\Music\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Interop.WMPLib.dll
+C:\Users\BRYAN TUALLE\Music\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\BRYAN TUALLE\Music\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.ResolveComReference.cache
+C:\Users\BRYAN TUALLE\Music\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmEvaluation.resources
+C:\Users\BRYAN TUALLE\Music\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMenuJirenSec.resources
+C:\Users\BRYAN TUALLE\Music\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmStory.resources
+C:\Users\BRYAN TUALLE\Music\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\BRYAN TUALLE\Music\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.GenerateResource.Cache
+C:\Users\BRYAN TUALLE\Music\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.CoreCompileInputs.cache
+C:\Users\BRYAN TUALLE\Music\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\BRYAN TUALLE\Music\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MACTrackBarLib.dll
+F:\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Interop.WMPLib.dll
+F:\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AxInterop.WMPLib.dll
+F:\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csprojResolveAssemblyReference.cache
+F:\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Interop.WMPLib.dll
+F:\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\AxInterop.WMPLib.dll
+F:\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.ResolveComReference.cache
+F:\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmEvaluation.resources
+F:\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMenuJirenSec.resources
+F:\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmStory.resources
+F:\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.GenerateResource.Cache
+F:\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.CoreCompileInputs.cache
+F:\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\usuario\Desktop\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\usuario\Desktop\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\usuario\Desktop\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\usuario\Desktop\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MACTrackBarLib.dll
+C:\Users\usuario\Desktop\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Interop.WMPLib.dll
+C:\Users\usuario\Desktop\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\usuario\Desktop\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Interop.WMPLib.dll
+C:\Users\usuario\Desktop\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\usuario\Desktop\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.ResolveComReference.cache
+C:\Users\usuario\Desktop\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmEvaluation.resources
+C:\Users\usuario\Desktop\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMenuJirenSec.resources
+C:\Users\usuario\Desktop\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmStory.resources
+C:\Users\usuario\Desktop\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\usuario\Desktop\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\usuario\Desktop\proyecto-integrado\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\usuario\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\usuario\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\usuario\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\usuario\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MACTrackBarLib.dll
+C:\Users\usuario\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Interop.WMPLib.dll
+C:\Users\usuario\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\usuario\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Interop.WMPLib.dll
+C:\Users\usuario\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\usuario\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.ResolveComReference.cache
+C:\Users\usuario\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmEvaluation.resources
+C:\Users\usuario\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMenuJirenSec.resources
+C:\Users\usuario\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmStory.resources
+C:\Users\usuario\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\usuario\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\usuario\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\BRYAN TUALLE\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\BRYAN TUALLE\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\BRYAN TUALLE\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\BRYAN TUALLE\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MACTrackBarLib.dll
+C:\Users\BRYAN TUALLE\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Interop.WMPLib.dll
+C:\Users\BRYAN TUALLE\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\BRYAN TUALLE\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csprojResolveAssemblyReference.cache
+C:\Users\BRYAN TUALLE\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Interop.WMPLib.dll
+C:\Users\BRYAN TUALLE\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\BRYAN TUALLE\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.ResolveComReference.cache
+C:\Users\BRYAN TUALLE\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmEvaluation.resources
+C:\Users\BRYAN TUALLE\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMenuJirenSec.resources
+C:\Users\BRYAN TUALLE\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmStory.resources
+C:\Users\BRYAN TUALLE\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\BRYAN TUALLE\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.GenerateResource.Cache
+C:\Users\BRYAN TUALLE\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.CoreCompileInputs.cache
+C:\Users\BRYAN TUALLE\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\BRYAN TUALLE\Desktop\proyecto-integradofinal\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\usuario\Desktop\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\usuario\Desktop\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\usuario\Desktop\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\usuario\Desktop\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MACTrackBarLib.dll
+C:\Users\usuario\Desktop\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Interop.WMPLib.dll
+C:\Users\usuario\Desktop\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\usuario\Desktop\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Interop.WMPLib.dll
+C:\Users\usuario\Desktop\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\usuario\Desktop\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.ResolveComReference.cache
+C:\Users\usuario\Desktop\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmEvaluation.resources
+C:\Users\usuario\Desktop\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMenuJirenSec.resources
+C:\Users\usuario\Desktop\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmStory.resources
+C:\Users\usuario\Desktop\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\usuario\Desktop\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\usuario\Desktop\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\renzo_000\Desktop\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\renzo_000\Desktop\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\renzo_000\Desktop\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\renzo_000\Desktop\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MACTrackBarLib.dll
+C:\Users\renzo_000\Desktop\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Interop.WMPLib.dll
+C:\Users\renzo_000\Desktop\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\renzo_000\Desktop\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csprojResolveAssemblyReference.cache
+C:\Users\renzo_000\Desktop\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Interop.WMPLib.dll
+C:\Users\renzo_000\Desktop\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\renzo_000\Desktop\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.ResolveComReference.cache
+C:\Users\renzo_000\Desktop\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmEvaluation.resources
+C:\Users\renzo_000\Desktop\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMenuJirenSec.resources
+C:\Users\renzo_000\Desktop\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmStory.resources
+C:\Users\renzo_000\Desktop\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\renzo_000\Desktop\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.GenerateResource.Cache
+C:\Users\renzo_000\Desktop\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.CoreCompileInputs.cache
+C:\Users\renzo_000\Desktop\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\renzo_000\Desktop\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\bryan_000\Videos\proyecto-integradofinal_v4\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\bryan_000\Videos\proyecto-integradofinal_v4\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\bryan_000\Videos\proyecto-integradofinal_v4\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\bryan_000\Videos\proyecto-integradofinal_v4\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MACTrackBarLib.dll
+C:\Users\bryan_000\Videos\proyecto-integradofinal_v4\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Interop.WMPLib.dll
+C:\Users\bryan_000\Videos\proyecto-integradofinal_v4\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\bryan_000\Videos\proyecto-integradofinal_v4\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csprojResolveAssemblyReference.cache
+C:\Users\bryan_000\Videos\proyecto-integradofinal_v4\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Interop.WMPLib.dll
+C:\Users\bryan_000\Videos\proyecto-integradofinal_v4\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\bryan_000\Videos\proyecto-integradofinal_v4\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.ResolveComReference.cache
+C:\Users\bryan_000\Videos\proyecto-integradofinal_v4\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmEvaluation.resources
+C:\Users\bryan_000\Videos\proyecto-integradofinal_v4\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMenuJirenSec.resources
+C:\Users\bryan_000\Videos\proyecto-integradofinal_v4\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmStory.resources
+C:\Users\bryan_000\Videos\proyecto-integradofinal_v4\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\bryan_000\Videos\proyecto-integradofinal_v4\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.GenerateResource.Cache
+C:\Users\bryan_000\Videos\proyecto-integradofinal_v4\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.CoreCompileInputs.cache
+C:\Users\bryan_000\Videos\proyecto-integradofinal_v4\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\bryan_000\Videos\proyecto-integradofinal_v4\proyecto-integradofinal_v4\proyecto-integradofinal_v3\Actividad 2 JirenSec v1.0\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\bin\Debug\MACTrackBarLib.dll
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\bin\Debug\Interop.WMPLib.dll
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\SegundaActividad.csprojResolveAssemblyReference.cache
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\Interop.WMPLib.dll
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.ResolveComReference.cache
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmEvaluation.resources
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMenuJirenSec.resources
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmStory.resources
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.GenerateResource.Cache
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\SegundaActividad.csproj.CoreCompileInputs.cache
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

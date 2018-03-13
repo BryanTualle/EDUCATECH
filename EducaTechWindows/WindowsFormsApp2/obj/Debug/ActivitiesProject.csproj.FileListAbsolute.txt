@@ -1,0 +1,69 @@
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\bin\Debug\MACTrackBarLib.dll
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\bin\Debug\Interop.WMPLib.dll
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\Interop.WMPLib.dll
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\ActivitiesProject.csproj.ResolveComReference.cache
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmEvaluation.resources
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMenuJirenSec.resources
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmStory.resources
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\ActivitiesProject.csproj.GenerateResource.Cache
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\ActivitiesProject.csproj.CoreCompileInputs.cache
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\WinAppEducaTech.frmMenuPrincipal.resources
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ec.edu.espe.gui.frmMenuBoti.resources
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\ActivitiesProject.csprojResolveAssemblyReference.cache
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ec.edu.espe.gui.frmBotiAprendeNivel1.resources
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ec.edu.espe.gui.frmBotiAprendeNivel2.resources
+C:\Users\bryan_000\Desktop\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ec.edu.espe.gui.frmBotiAprendeNivel3.resources
+F:\EducaTechWindows\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\EducaTechWindows\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\EducaTechWindows\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\EducaTechWindows\WindowsFormsApp2\bin\Debug\MACTrackBarLib.dll
+F:\EducaTechWindows\WindowsFormsApp2\bin\Debug\Interop.WMPLib.dll
+F:\EducaTechWindows\WindowsFormsApp2\bin\Debug\AxInterop.WMPLib.dll
+F:\EducaTechWindows\WindowsFormsApp2\obj\Debug\ActivitiesProject.csprojResolveAssemblyReference.cache
+F:\EducaTechWindows\WindowsFormsApp2\obj\Debug\Interop.WMPLib.dll
+F:\EducaTechWindows\WindowsFormsApp2\obj\Debug\AxInterop.WMPLib.dll
+F:\EducaTechWindows\WindowsFormsApp2\obj\Debug\ActivitiesProject.csproj.ResolveComReference.cache
+F:\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ec.edu.espe.gui.frmBotiAprendeNivel1.resources
+F:\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ec.edu.espe.gui.frmBotiAprendeNivel2.resources
+F:\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ec.edu.espe.gui.frmBotiAprendeNivel3.resources
+F:\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmEvaluation.resources
+F:\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ec.edu.espe.gui.frmMenuBoti.resources
+F:\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMenuJirenSec.resources
+F:\EducaTechWindows\WindowsFormsApp2\obj\Debug\WinAppEducaTech.frmMenuPrincipal.resources
+F:\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmStory.resources
+F:\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\EducaTechWindows\WindowsFormsApp2\obj\Debug\ActivitiesProject.csproj.GenerateResource.Cache
+F:\EducaTechWindows\WindowsFormsApp2\obj\Debug\ActivitiesProject.csproj.CoreCompileInputs.cache
+F:\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\BRYAN TUALLE\Videos\EducaTechWindows\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\BRYAN TUALLE\Videos\EducaTechWindows\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\BRYAN TUALLE\Videos\EducaTechWindows\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\BRYAN TUALLE\Videos\EducaTechWindows\WindowsFormsApp2\bin\Debug\MACTrackBarLib.dll
+C:\Users\BRYAN TUALLE\Videos\EducaTechWindows\WindowsFormsApp2\bin\Debug\Interop.WMPLib.dll
+C:\Users\BRYAN TUALLE\Videos\EducaTechWindows\WindowsFormsApp2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\BRYAN TUALLE\Videos\EducaTechWindows\WindowsFormsApp2\obj\Debug\ActivitiesProject.csprojResolveAssemblyReference.cache
+C:\Users\BRYAN TUALLE\Videos\EducaTechWindows\WindowsFormsApp2\obj\Debug\Interop.WMPLib.dll
+C:\Users\BRYAN TUALLE\Videos\EducaTechWindows\WindowsFormsApp2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\BRYAN TUALLE\Videos\EducaTechWindows\WindowsFormsApp2\obj\Debug\ActivitiesProject.csproj.ResolveComReference.cache
+C:\Users\BRYAN TUALLE\Videos\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ec.edu.espe.gui.frmBotiAprendeNivel1.resources
+C:\Users\BRYAN TUALLE\Videos\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ec.edu.espe.gui.frmBotiAprendeNivel2.resources
+C:\Users\BRYAN TUALLE\Videos\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ec.edu.espe.gui.frmBotiAprendeNivel3.resources
+C:\Users\BRYAN TUALLE\Videos\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmEvaluation.resources
+C:\Users\BRYAN TUALLE\Videos\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ec.edu.espe.gui.frmMenuBoti.resources
+C:\Users\BRYAN TUALLE\Videos\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMenuJirenSec.resources
+C:\Users\BRYAN TUALLE\Videos\EducaTechWindows\WindowsFormsApp2\obj\Debug\WinAppEducaTech.frmMenuPrincipal.resources
+C:\Users\BRYAN TUALLE\Videos\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmStory.resources
+C:\Users\BRYAN TUALLE\Videos\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\BRYAN TUALLE\Videos\EducaTechWindows\WindowsFormsApp2\obj\Debug\ActivitiesProject.csproj.GenerateResource.Cache
+C:\Users\BRYAN TUALLE\Videos\EducaTechWindows\WindowsFormsApp2\obj\Debug\ActivitiesProject.csproj.CoreCompileInputs.cache
+C:\Users\BRYAN TUALLE\Videos\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\BRYAN TUALLE\Videos\EducaTechWindows\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
