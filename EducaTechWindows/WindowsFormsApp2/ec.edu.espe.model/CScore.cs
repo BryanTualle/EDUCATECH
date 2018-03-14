@@ -85,7 +85,7 @@ namespace WinAppBotiAprende
             }
 
         }
-        public void ScoresNivel3(int Movimientos, PictureBox picScore, Timer tiempoScores)
+        public void ScoresNivel3(int Movimientos, PictureBox picScore, Button btnLevel3, Timer tiempoScores)
         {
             CSound sonidos = new CSound();
             boti = new frmMenuBoti();
@@ -95,17 +95,19 @@ namespace WinAppBotiAprende
             {
                 loadScores3(picScore, 0);
                 sonidos.Excellent();
-                boti.Flag3 = true;
+                boti.Flag2 = true;
             }
             else if (Movimientos < 29 && Movimientos > 20)
             {
                 loadScores3(picScore, 1);
                 sonidos.Good();
+                boti.Flag2 = true;
             }
             else
             {
                 loadScores3(picScore, 2);
                 sonidos.Regular();
+                boti.Flag2 = true;
             }
 
         }

@@ -26,7 +26,9 @@ namespace WindowsFormsApp2
         #region constructor
         public frmStory(int num)
         {
+            
             InitializeComponent();
+         
             controlPlayer = num;
             positionImage = num;
             orig = num;
@@ -41,6 +43,7 @@ namespace WindowsFormsApp2
         #region methods
         private void frmStory_Load(object sender, EventArgs e)
         { //inicializa pictureBox
+            picPlay_Click(sender, e);
             picImage2.BackColor = Color.Transparent;
             picImage3.BackColor = Color.Transparent;
             picImage4.BackColor = Color.Transparent;
@@ -263,7 +266,7 @@ namespace WindowsFormsApp2
             {
                 if (control == false)
                 {
-                    positionImage = controlPlayer + 2;
+                    positionImage = controlPlayer + 1;
                 }
                 if (controlPlayer != 8 && controlPlayer <= 16)
                 {
@@ -277,6 +280,7 @@ namespace WindowsFormsApp2
 
 
             }
+
 
         }
 
@@ -316,8 +320,11 @@ namespace WindowsFormsApp2
             }
         }
 
+
         private void picNext_Click(object sender, EventArgs e)
         {
+            player.close();
+            //control avance cuento Tres cerditos
             if (orig == 0)
             {
                 if (control == true)

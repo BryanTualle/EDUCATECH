@@ -47,10 +47,10 @@
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox1.Image = global::WindowsFormsApp2.Properties.Resources.titulos1;
-            this.pictureBox1.Location = new System.Drawing.Point(295, 53);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.pictureBox1.Location = new System.Drawing.Point(221, 43);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(777, 113);
+            this.pictureBox1.Size = new System.Drawing.Size(583, 92);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
@@ -59,10 +59,10 @@
             // 
             this.picHanselGretel.BackColor = System.Drawing.Color.Transparent;
             this.picHanselGretel.Image = global::WindowsFormsApp2.Properties.Resources.btnHanselGrettel_M1;
-            this.picHanselGretel.Location = new System.Drawing.Point(857, 508);
-            this.picHanselGretel.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.picHanselGretel.Location = new System.Drawing.Point(643, 413);
+            this.picHanselGretel.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.picHanselGretel.Name = "picHanselGretel";
-            this.picHanselGretel.Size = new System.Drawing.Size(337, 91);
+            this.picHanselGretel.Size = new System.Drawing.Size(253, 74);
             this.picHanselGretel.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picHanselGretel.TabIndex = 3;
             this.picHanselGretel.TabStop = false;
@@ -74,10 +74,10 @@
             // 
             this.pictureBox4.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox4.Image = global::WindowsFormsApp2.Properties.Resources.TC8;
-            this.pictureBox4.Location = new System.Drawing.Point(199, 201);
-            this.pictureBox4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.pictureBox4.Location = new System.Drawing.Point(149, 163);
+            this.pictureBox4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(337, 287);
+            this.pictureBox4.Size = new System.Drawing.Size(253, 233);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox4.TabIndex = 4;
             this.pictureBox4.TabStop = false;
@@ -86,10 +86,10 @@
             // 
             this.pictureBox5.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox5.Image = global::WindowsFormsApp2.Properties.Resources.HG11;
-            this.pictureBox5.Location = new System.Drawing.Point(857, 201);
-            this.pictureBox5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.pictureBox5.Location = new System.Drawing.Point(643, 163);
+            this.pictureBox5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(332, 287);
+            this.pictureBox5.Size = new System.Drawing.Size(249, 233);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox5.TabIndex = 5;
             this.pictureBox5.TabStop = false;
@@ -98,10 +98,10 @@
             // 
             this.picTresCerditos.BackColor = System.Drawing.Color.Transparent;
             this.picTresCerditos.Image = global::WindowsFormsApp2.Properties.Resources.btnTresCerditos_M1;
-            this.picTresCerditos.Location = new System.Drawing.Point(199, 508);
-            this.picTresCerditos.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.picTresCerditos.Location = new System.Drawing.Point(149, 413);
+            this.picTresCerditos.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.picTresCerditos.Name = "picTresCerditos";
-            this.picTresCerditos.Size = new System.Drawing.Size(337, 91);
+            this.picTresCerditos.Size = new System.Drawing.Size(253, 74);
             this.picTresCerditos.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picTresCerditos.TabIndex = 6;
             this.picTresCerditos.TabStop = false;
@@ -113,10 +113,9 @@
             // 
             this.btnReturnPrincipalMenu.BackColor = System.Drawing.Color.Transparent;
             this.btnReturnPrincipalMenu.Image = global::WindowsFormsApp2.Properties.Resources.btnHomePrincipal_M1;
-            this.btnReturnPrincipalMenu.Location = new System.Drawing.Point(1149, 720);
-            this.btnReturnPrincipalMenu.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnReturnPrincipalMenu.Location = new System.Drawing.Point(882, 506);
             this.btnReturnPrincipalMenu.Name = "btnReturnPrincipalMenu";
-            this.btnReturnPrincipalMenu.Size = new System.Drawing.Size(200, 175);
+            this.btnReturnPrincipalMenu.Size = new System.Drawing.Size(150, 142);
             this.btnReturnPrincipalMenu.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.btnReturnPrincipalMenu.TabIndex = 8;
             this.btnReturnPrincipalMenu.TabStop = false;
@@ -126,11 +125,11 @@
             // 
             // frmMenuJirenSec
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1365, 910);
+            this.ClientSize = new System.Drawing.Size(1024, 640);
             this.Controls.Add(this.btnReturnPrincipalMenu);
             this.Controls.Add(this.picTresCerditos);
             this.Controls.Add(this.pictureBox5);
@@ -138,7 +137,7 @@
             this.Controls.Add(this.picHanselGretel);
             this.Controls.Add(this.pictureBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "frmMenuJirenSec";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Menú JirenSec";

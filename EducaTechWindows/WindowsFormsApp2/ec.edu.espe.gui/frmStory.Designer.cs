@@ -168,8 +168,8 @@
             // picNextPage
             // 
             this.picNextPage.BackColor = System.Drawing.Color.Transparent;
-            this.picNextPage.Image = global::WindowsFormsApp2.Properties.Resources.btnContinue_M1;
-            this.picNextPage.Location = new System.Drawing.Point(927, 303);
+            this.picNextPage.Image = ((System.Drawing.Image)(resources.GetObject("picNextPage.Image")));
+            this.picNextPage.Location = new System.Drawing.Point(666, 575);
             this.picNextPage.Name = "picNextPage";
             this.picNextPage.Size = new System.Drawing.Size(75, 81);
             this.picNextPage.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;

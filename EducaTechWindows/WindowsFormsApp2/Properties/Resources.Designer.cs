@@ -223,9 +223,29 @@ namespace WindowsFormsApp2.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap book {
+            get {
+                object obj = ResourceManager.GetObject("book", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap botiAprende {
             get {
                 object obj = ResourceManager.GetObject("botiAprende", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap botiAprende1 {
+            get {
+                object obj = ResourceManager.GetObject("botiAprende1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -302,9 +322,29 @@ namespace WindowsFormsApp2.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap btnContinue_M11 {
+            get {
+                object obj = ResourceManager.GetObject("btnContinue_M11", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap btnContinue_M2 {
             get {
                 object obj = ResourceManager.GetObject("btnContinue_M2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap btnContinue_M21 {
+            get {
+                object obj = ResourceManager.GetObject("btnContinue_M21", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -731,6 +771,26 @@ namespace WindowsFormsApp2.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap educatech {
+            get {
+                object obj = ResourceManager.GetObject("educatech", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap educatech1 {
+            get {
+                object obj = ResourceManager.GetObject("educatech1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap education {
             get {
                 object obj = ResourceManager.GetObject("education", resourceCulture);
@@ -783,6 +843,16 @@ namespace WindowsFormsApp2.Properties {
         internal static System.Drawing.Bitmap final2 {
             get {
                 object obj = ResourceManager.GetObject("final2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap fondo {
+            get {
+                object obj = ResourceManager.GetObject("fondo", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1201,6 +1271,26 @@ namespace WindowsFormsApp2.Properties {
         internal static System.Drawing.Bitmap lock_2 {
             get {
                 object obj = ResourceManager.GetObject("lock_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap LOGO {
+            get {
+                object obj = ResourceManager.GetObject("LOGO", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap LOGO1 {
+            get {
+                object obj = ResourceManager.GetObject("LOGO1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

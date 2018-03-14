@@ -500,5 +500,14 @@ namespace WindowsFormsApp2
         {
             initializa.effectEnter(pictureBox1, 8);
         }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            player.Stop();
+            this.Hide();
+            frmMenuJirenSec menuJirenSec = new frmMenuJirenSec();
+            
+            menuJirenSec.Show();
+        }
     }
 }

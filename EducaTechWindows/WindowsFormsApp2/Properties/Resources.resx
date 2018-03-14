@@ -169,14 +169,17 @@
   <data name="TC1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\TC1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="btnContinue_M2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnContinue_M2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnHomePrincipal_M1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\images\btnHomePrincipal_M1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="button" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="sound1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\sound1.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="med3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\med3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="HG9" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\HG9.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -211,8 +214,8 @@
   <data name="btnTresCerditos_M1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\btnTresCerditos_M1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="sound9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sound9.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="juguemos" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\juguemos.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="no4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\no4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -223,14 +226,20 @@
   <data name="tres" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\tres.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="help" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\help.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="TC5" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\TC5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="botiAprende1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\botiAprende.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="juguemos3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\juguemos3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="juguemos" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\juguemos.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="TC2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TC2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Excelente" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Excelente.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -265,8 +274,8 @@
   <data name="img11" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\img11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="sound10" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sound10.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="final2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\final2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="HG14" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\HG14.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -295,14 +304,14 @@
   <data name="btnCheck_M1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\btnCheck_M1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="TC8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\TC8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="btnNext_M2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\btnNext_M2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Botiquin2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Botiquin.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="LOGO1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LOGO.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="good1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\good.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -346,9 +355,6 @@
   <data name="nivel2lock" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\nivel2lock.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="bad" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bad.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="HG15" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\HG15.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -382,8 +388,8 @@
   <data name="uno" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\uno.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="r" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\r.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="PrincipalBotiAprende" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PrincipalBotiAprende.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="SerieMarcasAgua" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\SerieMarcasAgua.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -412,8 +418,8 @@
   <data name="WALL" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\WALL.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="PrincipalBotiAprende" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\PrincipalBotiAprende.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="fondo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fondo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="_27901966_1651605564930478_1737820816_o" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\27901966_1651605564930478_1737820816_o.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -439,6 +445,9 @@
   <data name="siete" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\siete.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="fondoMedicina" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fondoMedicina.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="HG12" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\HG12.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -450,6 +459,9 @@
   </data>
   <data name="titlePage" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\titlePage.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="educatech" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\educatech.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="titulos1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\titulos1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -484,8 +496,11 @@
   <data name="repplay" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\repplay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="point" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\point.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="TC8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TC8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sound9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sound9.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="nivel2_lock" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\nivel2_lock.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -511,9 +526,6 @@
   <data name="btnHanselGrettel_M1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\btnHanselGrettel_M1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="TC2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\TC2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="HG10" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\HG10.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -532,8 +544,11 @@
   <data name="huida2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\huida2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="help" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\help.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="point" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\point.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TC7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TC7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="h" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\h.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -607,11 +622,11 @@
   <data name="_22" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\22.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Help1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Help.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="LOGO" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LOGO.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="fondoMedicina" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fondoMedicina.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="r" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\r.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\9.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -643,8 +658,11 @@
   <data name="btnHanselGrettel_M2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\btnHanselGrettel_M2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="final2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\final2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="bad" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bad.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Help1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Help.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="btnGame_M1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\images\btnGame_M1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -652,8 +670,8 @@
   <data name="btnReturn_M2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\btnReturn_M2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="btnContinue_M2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\btnContinue_M2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="med3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\med3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="TC4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\TC4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -661,8 +679,8 @@
   <data name="playgo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\playgo1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="TC7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\TC7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="sound10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sound10.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="btnTresCerditos_M2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\btnTresCerditos_M2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -676,7 +694,16 @@
   <data name="img3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\img3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="btnHomePrincipal_M1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\images\btnHomePrincipal_M1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="educatech1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\educatech1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="book" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\images\book.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnContinue_M11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\images\btnContinue_M1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnContinue_M21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\images\btnContinue_M2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

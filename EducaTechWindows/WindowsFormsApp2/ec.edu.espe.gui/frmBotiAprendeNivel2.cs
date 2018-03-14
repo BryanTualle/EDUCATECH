@@ -26,22 +26,19 @@ namespace WindowsFormsApp2.ec.edu.espe.gui
             InitializeComponent();
             boti = new frmMenuBoti();
             soundGame.SoundGame(flagSound);
-            nivel2.juego(PanelJuego, esconderCartas, AbrirCartas, lblScores, picScores, picHelp, boti.BtnLevel3, ScoreTime);
+            nivel2.juego(PanelJuego, esconderCartas, AbrirCartas, lblScores, picScores, picHelp, boti.BtnLevel3, ScoreTime, reproductor);
         }
 
         private void btnRestart_Click(object sender, EventArgs e)
         {
+            AbrirCartas.Stop();
+            AbrirCartas.Start();
             soundGame.SoundGame(flagSound);
             frmBotiAprendeNivel2 nivel = new frmBotiAprendeNivel2();
-            nivel2.juego(PanelJuego, esconderCartas, AbrirCartas, lblScores, picScores, picHelp, boti.BtnLevel3, ScoreTime);
+            nivel2.juego(PanelJuego, esconderCartas, AbrirCartas, lblScores, picScores, picHelp, boti.BtnLevel3, ScoreTime, reproductor);
             picHelp.Hide();
             PanelJuego.Hide();
             PanelJuego.Show();
-        }
-
-        private void btnHelp_Click(object sender, EventArgs e)
-        {
-            Ayuda.HelpSound(picHelp);
         }
 
         private void btnExit_Click(object sender, EventArgs e)
@@ -100,6 +97,19 @@ namespace WindowsFormsApp2.ec.edu.espe.gui
                 esconderCartas.Stop();
 
             }
+        }
+
+        private void frmBotiAprendeNivel2_MouseClick(object sender, MouseEventArgs e)
+        {
+            reproductor.close();
+            picHelp.Hide();
+        }
+
+        private void btnHelp_Click_1(object sender, EventArgs e)
+        {
+            reproductor.URL = Application.StartupPath + @"/images/" + "Help.wav";
+            CSound Ayuda = new CSound();
+            Ayuda.HelpSound(picHelp);
         }
     }
 }

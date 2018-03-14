@@ -25,20 +25,16 @@ namespace WindowsFormsApp2.ec.edu.espe.gui
             InitializeComponent();
             boti = new frmMenuBoti();
             soundGame.SoundGame(flagSound);
-            nivel3.juego(PanelJuego, esconderCartas, abrirCartas, lblScores, picScores, picHelp, ScoreTime);
+            nivel3.juego(PanelJuego, esconderCartas, abrirCartas, lblScores, picScores, picHelp, boti.BtnLevel3, ScoreTime, reproductor);
 
-        }
-
-        private void btnHelp_Click(object sender, EventArgs e)
-        {
-            CSound Ayuda = new CSound();
-            Ayuda.HelpSound(picHelp);
         }
 
         private void btnRestart_Click(object sender, EventArgs e)
         {
+            abrirCartas.Stop();
+            abrirCartas.Start();
             soundGame.SoundGame(flagSound);
-            nivel3.juego(PanelJuego, esconderCartas, abrirCartas, lblScores, picScores, picHelp, ScoreTime);
+            nivel3.juego(PanelJuego, esconderCartas, abrirCartas, lblScores, picScores, picHelp, boti.BtnLevel3, ScoreTime, reproductor);
             picHelp.Hide();
             PanelJuego.Hide();
             PanelJuego.Show();
@@ -100,6 +96,19 @@ namespace WindowsFormsApp2.ec.edu.espe.gui
                 esconderCartas.Stop();
 
             }
+        }
+
+        private void frmBotiAprendeNivel3_MouseClick(object sender, MouseEventArgs e)
+        {
+            reproductor.close();
+            picHelp.Hide();
+        }
+
+        private void btnHelp_Click_1(object sender, EventArgs e)
+        {
+            reproductor.URL = Application.StartupPath + @"/images/" + "Help.wav";
+            CSound Ayuda = new CSound();
+            Ayuda.HelpSound(picHelp);
         }
     }
 }

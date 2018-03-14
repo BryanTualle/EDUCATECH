@@ -32,7 +32,7 @@ namespace WinAppEducaTech
         public PictureBox CartaTemporal21 { get => CartaTemporal2; set => CartaTemporal2 = value; }
         public PictureBox[] CartaTemporal3 { get => CartaTemporal; set => CartaTemporal = value; }
 
-        public void juego(Panel PanelJuego, Timer esconderCartas, Timer abrirCartas, Label lblScores, PictureBox picScores, PictureBox picHelp, Button btnLevel2, Timer timeScore)
+        public void juego(Panel PanelJuego, Timer esconderCartas, Timer abrirCartas, Label lblScores, PictureBox picScores, PictureBox picHelp, Button btnLevel2, Timer timeScore, AxWMPLib.AxWindowsMediaPlayer player)
         {
             //se inicializa el timer1 en stop
             esconderCartas.Enabled = false;
@@ -121,6 +121,8 @@ namespace WinAppEducaTech
 
             void selection(object sender, EventArgs e)
             {
+                player.close();
+                picHelp.Hide();
                 if (CartasSeleccionadas.Count < 2)
                 {
                     Movimientos++;
@@ -155,8 +157,9 @@ namespace WinAppEducaTech
                                 CartaTemporal2.Visible = false;
                                 tablaPanel.Visible = false;
                                 CScores.ScoresNivel1(Movimientos, picScores, btnLevel2, timeScore);
-                                PanelJuego.Controls.Add(picScores);  
-                                
+                                PanelJuego.Controls.Add(picScores);
+                                picScores.BringToFront();
+
                             }
 
                             CartaTemporal1.Enabled = false; CartaTemporal2.Enabled = false;

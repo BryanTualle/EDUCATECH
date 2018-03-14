@@ -29,21 +29,24 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmBotiAprendeNivel2));
             this.PanelJuego = new System.Windows.Forms.Panel();
             this.picScores = new System.Windows.Forms.PictureBox();
             this.lblScores = new System.Windows.Forms.Label();
             this.picHelp = new System.Windows.Forms.PictureBox();
             this.esconderCartas = new System.Windows.Forms.Timer(this.components);
             this.AbrirCartas = new System.Windows.Forms.Timer(this.components);
-            this.btnHelp = new System.Windows.Forms.PictureBox();
             this.btnRestart = new System.Windows.Forms.Label();
             this.btnExit = new System.Windows.Forms.Label();
             this.ScoreTime = new System.Windows.Forms.Timer(this.components);
             this.timerGrades = new System.Windows.Forms.Label();
+            this.btnHelp = new System.Windows.Forms.PictureBox();
+            this.reproductor = new AxWMPLib.AxWindowsMediaPlayer();
             this.PanelJuego.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picScores)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picHelp)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.btnHelp)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.reproductor)).BeginInit();
             this.SuspendLayout();
             // 
             // PanelJuego
@@ -103,20 +106,6 @@
             this.AbrirCartas.Interval = 8000;
             this.AbrirCartas.Tick += new System.EventHandler(this.AbrirCartas_Tick);
             // 
-            // btnHelp
-            // 
-            this.btnHelp.BackColor = System.Drawing.Color.Transparent;
-            this.btnHelp.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btnHelp.Cursor = System.Windows.Forms.Cursors.Help;
-            this.btnHelp.ErrorImage = null;
-            this.btnHelp.Image = global::WindowsFormsApp2.Properties.Resources.h;
-            this.btnHelp.Location = new System.Drawing.Point(918, 34);
-            this.btnHelp.Name = "btnHelp";
-            this.btnHelp.Size = new System.Drawing.Size(78, 76);
-            this.btnHelp.TabIndex = 28;
-            this.btnHelp.TabStop = false;
-            this.btnHelp.Click += new System.EventHandler(this.btnHelp_Click);
-            // 
             // btnRestart
             // 
             this.btnRestart.AutoSize = true;
@@ -162,16 +151,42 @@
             this.timerGrades.Size = new System.Drawing.Size(0, 13);
             this.timerGrades.TabIndex = 29;
             // 
+            // btnHelp
+            // 
+            this.btnHelp.BackColor = System.Drawing.Color.Transparent;
+            this.btnHelp.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnHelp.Cursor = System.Windows.Forms.Cursors.Help;
+            this.btnHelp.ErrorImage = null;
+            this.btnHelp.Image = global::WindowsFormsApp2.Properties.Resources.h;
+            this.btnHelp.Location = new System.Drawing.Point(787, 7);
+            this.btnHelp.Name = "btnHelp";
+            this.btnHelp.Size = new System.Drawing.Size(106, 83);
+            this.btnHelp.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.btnHelp.TabIndex = 53;
+            this.btnHelp.TabStop = false;
+            this.btnHelp.Click += new System.EventHandler(this.btnHelp_Click_1);
+            // 
+            // reproductor
+            // 
+            this.reproductor.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.reproductor.Enabled = true;
+            this.reproductor.Location = new System.Drawing.Point(787, 40);
+            this.reproductor.Name = "reproductor";
+            this.reproductor.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("reproductor.OcxState")));
+            this.reproductor.Size = new System.Drawing.Size(211, 35);
+            this.reproductor.TabIndex = 54;
+            // 
             // frmBotiAprendeNivel2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::WindowsFormsApp2.Properties.Resources.med3;
             this.ClientSize = new System.Drawing.Size(1008, 710);
+            this.Controls.Add(this.btnHelp);
             this.Controls.Add(this.PanelJuego);
+            this.Controls.Add(this.reproductor);
             this.Controls.Add(this.lblScores);
             this.Controls.Add(this.picHelp);
-            this.Controls.Add(this.btnHelp);
             this.Controls.Add(this.btnRestart);
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.timerGrades);
@@ -179,10 +194,12 @@
             this.Name = "frmBotiAprendeNivel2";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmBotiAprendeNivel2";
+            this.MouseClick += new System.Windows.Forms.MouseEventHandler(this.frmBotiAprendeNivel2_MouseClick);
             this.PanelJuego.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.picScores)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picHelp)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.btnHelp)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.reproductor)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -196,10 +213,11 @@
         private System.Windows.Forms.PictureBox picHelp;
         private System.Windows.Forms.Timer esconderCartas;
         private System.Windows.Forms.Timer AbrirCartas;
-        private System.Windows.Forms.PictureBox btnHelp;
         private System.Windows.Forms.Label btnRestart;
         private System.Windows.Forms.Label btnExit;
         private System.Windows.Forms.Timer ScoreTime;
         private System.Windows.Forms.Label timerGrades;
+        private System.Windows.Forms.PictureBox btnHelp;
+        private AxWMPLib.AxWindowsMediaPlayer reproductor;
     }
 }

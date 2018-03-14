@@ -224,8 +224,6 @@ namespace WindowsFormsApp2
         public void timerHanselGretel(Timer timer1, Timer timer2, Timer timer3, Timer timer4, Timer timer5, Timer timer6, Timer timer7, Timer timer8, AxWMPLib.AxWindowsMediaPlayer player, int pos, PictureBox picImage1, PictureBox picImage2, PictureBox picImage3, PictureBox picImage4, PictureBox picNum1, PictureBox picNum2, PictureBox picNum3, PictureBox picNum4)
         {
 
-
-
             if (pos == 8)
             {
                 player.URL = Application.StartupPath + @"/images/" + filePathsHG[0];
@@ -237,21 +235,21 @@ namespace WindowsFormsApp2
                 picImage2.Image = null;
                 picImage3.Image = null;
                 picImage4.Image = null;
-                timer1.Interval = 56000;
+                timer1.Interval = 29000;
                 timer1.Start();
-                timer2.Interval = 94000;
+                timer2.Interval = 47000;
                 timer2.Start();
-                timer3.Interval = 103000;
+                timer3.Interval = 79000;
                 timer3.Start();
-                timer4.Interval = 116000;
+                timer4.Interval = 99000;
                 timer4.Start();
-                timer5.Interval = 160000;
+                timer5.Interval = 116000;
                 timer5.Start();
-                timer6.Interval = 180000;
+                timer6.Interval = 142000;
                 timer6.Start();
-                timer7.Interval = 190000;
+                timer7.Interval = 175000;
                 timer7.Start();
-                timer8.Interval = 207000;
+                timer8.Interval = 197000;
                 timer8.Start();
             }
 
@@ -269,19 +267,19 @@ namespace WindowsFormsApp2
                 imag.loadPictureBox(picImage1, 8);
                 imag.loadPictureBox(picImage2, 9);
 
-                timer2.Interval = 38000;
+                timer2.Interval = 18000;
                 timer2.Start();
-                timer3.Interval = 47000;
+                timer3.Interval = 50000;
                 timer3.Start();
-                timer4.Interval = 60000;
+                timer4.Interval = 70000;
                 timer4.Start();
-                timer5.Interval = 104000;
+                timer5.Interval = 87000;
                 timer5.Start();
-                timer6.Interval = 124000;
+                timer6.Interval = 113000;
                 timer6.Start();
-                timer7.Interval = 134000;
+                timer7.Interval = 146000;
                 timer7.Start();
-                timer8.Interval = 151000;
+                timer8.Interval = 168000;
                 timer8.Start();
             }
             if (pos == 10)
@@ -298,17 +296,18 @@ namespace WindowsFormsApp2
                 imag.loadPictureBox(picImage1, 8);
                 imag.loadPictureBox(picImage2, 9);
                 imag.loadPictureBox(picImage3, 10);
-                timer3.Interval = 9000;
+
+                timer3.Interval = 32000;
                 timer3.Start();
-                timer4.Interval = 22000;
+                timer4.Interval = 42000;
                 timer4.Start();
-                timer5.Interval = 66000;
+                timer5.Interval = 69000;
                 timer5.Start();
-                timer6.Interval = 86000;
+                timer6.Interval = 95000;
                 timer6.Start();
-                timer7.Interval = 96000;
+                timer7.Interval = 128000;
                 timer7.Start();
-                timer8.Interval = 113000;
+                timer8.Interval = 150000;
                 timer8.Start();
             }
             if (pos == 11)
@@ -326,15 +325,16 @@ namespace WindowsFormsApp2
                 imag.loadPictureBox(picImage2, 9);
                 imag.loadPictureBox(picImage3, 10);
                 imag.loadPictureBox(picImage4, 11);
-                timer4.Interval = 13000;
+
+                timer4.Interval = 10000;
                 timer4.Start();
-                timer5.Interval = 57000;
+                timer5.Interval = 37000;
                 timer5.Start();
-                timer6.Interval = 77000;
+                timer6.Interval = 63000;
                 timer6.Start();
-                timer7.Interval = 87000;
+                timer7.Interval = 96000;
                 timer7.Start();
-                timer8.Interval = 105000;
+                timer8.Interval = 118000;
                 timer8.Start();
             }
             if (pos == 12)
@@ -349,13 +349,14 @@ namespace WindowsFormsApp2
                 picNum2.Image = null;
                 picNum3.Image = null;
                 picNum4.Image = null;
-                timer5.Interval = 44000;
+
+                timer5.Interval = 27000;
                 timer5.Start();
-                timer6.Interval = 64000;
+                timer6.Interval = 53000;
                 timer6.Start();
-                timer7.Interval = 74000;
+                timer7.Interval = 86000;
                 timer7.Start();
-                timer8.Interval = 92000;
+                timer8.Interval = 108000;
                 timer8.Start();
             }
             if (pos == 13)
@@ -371,11 +372,12 @@ namespace WindowsFormsApp2
                 imag.loadNumbers(picNum2, 5);
                 imag.loadPictureBox(picImage1, 12);
                 imag.loadPictureBox(picImage2, 13);
-                timer6.Interval = 20000;
+
+                timer6.Interval = 26000;
                 timer6.Start();
-                timer7.Interval = 30000;
+                timer7.Interval = 59000;
                 timer7.Start();
-                timer8.Interval = 46000;
+                timer8.Interval = 81000;
                 timer8.Start();
             }
             if (pos == 14)
@@ -392,9 +394,10 @@ namespace WindowsFormsApp2
                 imag.loadPictureBox(picImage1, 12);
                 imag.loadPictureBox(picImage2, 13);
                 imag.loadPictureBox(picImage3, 14);
-                timer7.Interval = 10000;
+
+                timer7.Interval = 33000;
                 timer7.Start();
-                timer8.Interval = 26000;
+                timer8.Interval = 55000;
                 timer8.Start();
             }
             if (pos == 15)
@@ -412,7 +415,8 @@ namespace WindowsFormsApp2
                 imag.loadPictureBox(picImage2, 13);
                 imag.loadPictureBox(picImage3, 14);
                 imag.loadPictureBox(picImage4, 15);
-                timer8.Interval = 10000;
+
+                timer8.Interval = 22000;
                 timer8.Start();
             }
         }

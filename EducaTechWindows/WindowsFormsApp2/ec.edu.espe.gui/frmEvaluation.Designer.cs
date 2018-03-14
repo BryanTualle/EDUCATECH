@@ -30,6 +30,16 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmEvaluation));
             this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.grbRespuestas = new System.Windows.Forms.GroupBox();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.picHelpEvaluation = new System.Windows.Forms.PictureBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.picScores = new System.Windows.Forms.PictureBox();
+            this.picHelp = new System.Windows.Forms.PictureBox();
+            this.picCheck = new System.Windows.Forms.PictureBox();
+            this.picBack = new System.Windows.Forms.PictureBox();
+            this.picTryAgain = new System.Windows.Forms.PictureBox();
             this.Image2 = new System.Windows.Forms.PictureBox();
             this.Image8 = new System.Windows.Forms.PictureBox();
             this.Image4 = new System.Windows.Forms.PictureBox();
@@ -38,7 +48,6 @@
             this.Image3 = new System.Windows.Forms.PictureBox();
             this.Image6 = new System.Windows.Forms.PictureBox();
             this.Image5 = new System.Windows.Forms.PictureBox();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.RImage1 = new System.Windows.Forms.PictureBox();
             this.VImage1 = new System.Windows.Forms.PictureBox();
@@ -56,15 +65,17 @@
             this.VImage5 = new System.Windows.Forms.PictureBox();
             this.VImage6 = new System.Windows.Forms.PictureBox();
             this.VImage7 = new System.Windows.Forms.PictureBox();
-            this.grbRespuestas = new System.Windows.Forms.GroupBox();
-            this.picBack = new System.Windows.Forms.PictureBox();
-            this.picTryAgain = new System.Windows.Forms.PictureBox();
-            this.picCheck = new System.Windows.Forms.PictureBox();
-            this.picHelp = new System.Windows.Forms.PictureBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.picHelpEvaluation = new System.Windows.Forms.PictureBox();
-            this.picScores = new System.Windows.Forms.PictureBox();
             this.groupBox3.SuspendLayout();
+            this.groupBox1.SuspendLayout();
+            this.grbRespuestas.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picHelpEvaluation)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picScores)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picHelp)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCheck)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBack)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picTryAgain)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Image2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Image8)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Image4)).BeginInit();
@@ -73,7 +84,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.Image3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Image6)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Image5)).BeginInit();
-            this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.RImage1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.VImage1)).BeginInit();
@@ -91,14 +101,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.VImage5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.VImage6)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.VImage7)).BeginInit();
-            this.grbRespuestas.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.picBack)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picTryAgain)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picCheck)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picHelp)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picHelpEvaluation)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picScores)).BeginInit();
             this.SuspendLayout();
             // 
             // groupBox3
@@ -119,6 +121,136 @@
             this.groupBox3.Size = new System.Drawing.Size(826, 319);
             this.groupBox3.TabIndex = 4;
             this.groupBox3.TabStop = false;
+            // 
+            // groupBox1
+            // 
+            this.groupBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.groupBox1.Controls.Add(this.groupBox3);
+            this.groupBox1.Location = new System.Drawing.Point(123, 312);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(2);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(2);
+            this.groupBox1.Size = new System.Drawing.Size(850, 342);
+            this.groupBox1.TabIndex = 7;
+            this.groupBox1.TabStop = false;
+            // 
+            // grbRespuestas
+            // 
+            this.grbRespuestas.BackColor = System.Drawing.Color.DeepSkyBlue;
+            this.grbRespuestas.Controls.Add(this.groupBox2);
+            this.grbRespuestas.Location = new System.Drawing.Point(210, 11);
+            this.grbRespuestas.Margin = new System.Windows.Forms.Padding(2);
+            this.grbRespuestas.Name = "grbRespuestas";
+            this.grbRespuestas.Padding = new System.Windows.Forms.Padding(2);
+            this.grbRespuestas.Size = new System.Drawing.Size(719, 292);
+            this.grbRespuestas.TabIndex = 6;
+            this.grbRespuestas.TabStop = false;
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox2.BackgroundImage")));
+            this.pictureBox2.Location = new System.Drawing.Point(9, 295);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(100, 90);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox2.TabIndex = 47;
+            this.pictureBox2.TabStop = false;
+            this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
+            // 
+            // picHelpEvaluation
+            // 
+            this.picHelpEvaluation.BackColor = System.Drawing.Color.Transparent;
+            this.picHelpEvaluation.Location = new System.Drawing.Point(160, 14);
+            this.picHelpEvaluation.Name = "picHelpEvaluation";
+            this.picHelpEvaluation.Size = new System.Drawing.Size(718, 643);
+            this.picHelpEvaluation.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picHelpEvaluation.TabIndex = 46;
+            this.picHelpEvaluation.TabStop = false;
+            this.picHelpEvaluation.Click += new System.EventHandler(this.picHelpEvaluation_Click);
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::WindowsFormsApp2.Properties.Resources.btnTryAgain_M1;
+            this.pictureBox1.Location = new System.Drawing.Point(933, 137);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(75, 81);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 45;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.Visible = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
+            this.pictureBox1.MouseEnter += new System.EventHandler(this.pictureBox1_MouseEnter);
+            this.pictureBox1.MouseLeave += new System.EventHandler(this.pictureBox1_MouseLeave);
+            // 
+            // picScores
+            // 
+            this.picScores.BackColor = System.Drawing.Color.Transparent;
+            this.picScores.Location = new System.Drawing.Point(122, 307);
+            this.picScores.Margin = new System.Windows.Forms.Padding(2);
+            this.picScores.Name = "picScores";
+            this.picScores.Size = new System.Drawing.Size(891, 352);
+            this.picScores.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picScores.TabIndex = 19;
+            this.picScores.TabStop = false;
+            this.picScores.Visible = false;
+            this.picScores.Click += new System.EventHandler(this.picScores_Click);
+            // 
+            // picHelp
+            // 
+            this.picHelp.Image = ((System.Drawing.Image)(resources.GetObject("picHelp.Image")));
+            this.picHelp.Location = new System.Drawing.Point(938, 36);
+            this.picHelp.Margin = new System.Windows.Forms.Padding(2);
+            this.picHelp.Name = "picHelp";
+            this.picHelp.Size = new System.Drawing.Size(75, 81);
+            this.picHelp.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picHelp.TabIndex = 43;
+            this.picHelp.TabStop = false;
+            this.picHelp.Click += new System.EventHandler(this.picHelp_Click);
+            this.picHelp.MouseEnter += new System.EventHandler(this.picHelp_MouseEnter);
+            this.picHelp.MouseLeave += new System.EventHandler(this.picHelp_MouseLeave);
+            // 
+            // picCheck
+            // 
+            this.picCheck.Image = global::WindowsFormsApp2.Properties.Resources.btnCheck_M1;
+            this.picCheck.Location = new System.Drawing.Point(123, 102);
+            this.picCheck.Margin = new System.Windows.Forms.Padding(2);
+            this.picCheck.Name = "picCheck";
+            this.picCheck.Size = new System.Drawing.Size(75, 81);
+            this.picCheck.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picCheck.TabIndex = 22;
+            this.picCheck.TabStop = false;
+            this.picCheck.Click += new System.EventHandler(this.picCheck_Click);
+            this.picCheck.MouseEnter += new System.EventHandler(this.picCheck_MouseEnter);
+            this.picCheck.MouseLeave += new System.EventHandler(this.picCheck_MouseLeave);
+            // 
+            // picBack
+            // 
+            this.picBack.Image = global::WindowsFormsApp2.Properties.Resources.btnReturn_M3;
+            this.picBack.Location = new System.Drawing.Point(24, 164);
+            this.picBack.Margin = new System.Windows.Forms.Padding(2);
+            this.picBack.Name = "picBack";
+            this.picBack.Size = new System.Drawing.Size(80, 80);
+            this.picBack.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picBack.TabIndex = 9;
+            this.picBack.TabStop = false;
+            this.picBack.Click += new System.EventHandler(this.picBack_Click);
+            this.picBack.MouseEnter += new System.EventHandler(this.picBack_MouseEnter);
+            this.picBack.MouseLeave += new System.EventHandler(this.picBack_MouseLeave);
+            // 
+            // picTryAgain
+            // 
+            this.picTryAgain.Image = global::WindowsFormsApp2.Properties.Resources.btnHome_M1;
+            this.picTryAgain.Location = new System.Drawing.Point(24, 36);
+            this.picTryAgain.Margin = new System.Windows.Forms.Padding(2);
+            this.picTryAgain.Name = "picTryAgain";
+            this.picTryAgain.Size = new System.Drawing.Size(85, 93);
+            this.picTryAgain.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picTryAgain.TabIndex = 8;
+            this.picTryAgain.TabStop = false;
+            this.picTryAgain.Click += new System.EventHandler(this.picHome_Click);
+            this.picTryAgain.MouseEnter += new System.EventHandler(this.picHome_MouseEnter);
+            this.picTryAgain.MouseLeave += new System.EventHandler(this.picHome_MouseLeave);
             // 
             // Image2
             // 
@@ -256,18 +388,6 @@
             this.Image5.DragDrop += new System.Windows.Forms.DragEventHandler(this.Image5_DragDrop);
             this.Image5.DragEnter += new System.Windows.Forms.DragEventHandler(this.Image5_DragEnter);
             this.Image5.MouseDown += new System.Windows.Forms.MouseEventHandler(this.Image5_MouseDown);
-            // 
-            // groupBox1
-            // 
-            this.groupBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.groupBox1.Controls.Add(this.groupBox3);
-            this.groupBox1.Location = new System.Drawing.Point(123, 312);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(2);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(2);
-            this.groupBox1.Size = new System.Drawing.Size(850, 342);
-            this.groupBox1.TabIndex = 7;
-            this.groupBox1.TabStop = false;
             // 
             // groupBox2
             // 
@@ -498,119 +618,13 @@
             this.VImage7.TabIndex = 19;
             this.VImage7.TabStop = false;
             // 
-            // grbRespuestas
-            // 
-            this.grbRespuestas.BackColor = System.Drawing.Color.DeepSkyBlue;
-            this.grbRespuestas.Controls.Add(this.groupBox2);
-            this.grbRespuestas.Location = new System.Drawing.Point(210, 11);
-            this.grbRespuestas.Margin = new System.Windows.Forms.Padding(2);
-            this.grbRespuestas.Name = "grbRespuestas";
-            this.grbRespuestas.Padding = new System.Windows.Forms.Padding(2);
-            this.grbRespuestas.Size = new System.Drawing.Size(719, 292);
-            this.grbRespuestas.TabIndex = 6;
-            this.grbRespuestas.TabStop = false;
-            // 
-            // picBack
-            // 
-            this.picBack.Image = global::WindowsFormsApp2.Properties.Resources.btnReturn_M3;
-            this.picBack.Location = new System.Drawing.Point(11, 435);
-            this.picBack.Margin = new System.Windows.Forms.Padding(2);
-            this.picBack.Name = "picBack";
-            this.picBack.Size = new System.Drawing.Size(80, 80);
-            this.picBack.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.picBack.TabIndex = 9;
-            this.picBack.TabStop = false;
-            this.picBack.Click += new System.EventHandler(this.picBack_Click);
-            this.picBack.MouseEnter += new System.EventHandler(this.picBack_MouseEnter);
-            this.picBack.MouseLeave += new System.EventHandler(this.picBack_MouseLeave);
-            // 
-            // picTryAgain
-            // 
-            this.picTryAgain.Image = global::WindowsFormsApp2.Properties.Resources.btnHome_M1;
-            this.picTryAgain.Location = new System.Drawing.Point(6, 322);
-            this.picTryAgain.Margin = new System.Windows.Forms.Padding(2);
-            this.picTryAgain.Name = "picTryAgain";
-            this.picTryAgain.Size = new System.Drawing.Size(85, 93);
-            this.picTryAgain.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.picTryAgain.TabIndex = 8;
-            this.picTryAgain.TabStop = false;
-            this.picTryAgain.Click += new System.EventHandler(this.picHome_Click);
-            this.picTryAgain.MouseEnter += new System.EventHandler(this.picHome_MouseEnter);
-            this.picTryAgain.MouseLeave += new System.EventHandler(this.picHome_MouseLeave);
-            // 
-            // picCheck
-            // 
-            this.picCheck.Image = global::WindowsFormsApp2.Properties.Resources.btnCheck_M1;
-            this.picCheck.Location = new System.Drawing.Point(123, 102);
-            this.picCheck.Margin = new System.Windows.Forms.Padding(2);
-            this.picCheck.Name = "picCheck";
-            this.picCheck.Size = new System.Drawing.Size(75, 81);
-            this.picCheck.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.picCheck.TabIndex = 22;
-            this.picCheck.TabStop = false;
-            this.picCheck.Click += new System.EventHandler(this.picCheck_Click);
-            this.picCheck.MouseEnter += new System.EventHandler(this.picCheck_MouseEnter);
-            this.picCheck.MouseLeave += new System.EventHandler(this.picCheck_MouseLeave);
-            // 
-            // picHelp
-            // 
-            this.picHelp.Image = ((System.Drawing.Image)(resources.GetObject("picHelp.Image")));
-            this.picHelp.Location = new System.Drawing.Point(938, 11);
-            this.picHelp.Margin = new System.Windows.Forms.Padding(2);
-            this.picHelp.Name = "picHelp";
-            this.picHelp.Size = new System.Drawing.Size(75, 81);
-            this.picHelp.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.picHelp.TabIndex = 43;
-            this.picHelp.TabStop = false;
-            this.picHelp.Click += new System.EventHandler(this.picHelp_Click);
-            this.picHelp.MouseEnter += new System.EventHandler(this.picHelp_MouseEnter);
-            this.picHelp.MouseLeave += new System.EventHandler(this.picHelp_MouseLeave);
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::WindowsFormsApp2.Properties.Resources.btnTryAgain_M1;
-            this.pictureBox1.Location = new System.Drawing.Point(933, 137);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(75, 81);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 45;
-            this.pictureBox1.TabStop = false;
-            this.pictureBox1.Visible = false;
-            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
-            this.pictureBox1.MouseEnter += new System.EventHandler(this.pictureBox1_MouseEnter);
-            this.pictureBox1.MouseLeave += new System.EventHandler(this.pictureBox1_MouseLeave);
-            // 
-            // picHelpEvaluation
-            // 
-            this.picHelpEvaluation.BackColor = System.Drawing.Color.Transparent;
-            this.picHelpEvaluation.Location = new System.Drawing.Point(160, 14);
-            this.picHelpEvaluation.Name = "picHelpEvaluation";
-            this.picHelpEvaluation.Size = new System.Drawing.Size(718, 643);
-            this.picHelpEvaluation.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.picHelpEvaluation.TabIndex = 46;
-            this.picHelpEvaluation.TabStop = false;
-            this.picHelpEvaluation.Click += new System.EventHandler(this.picHelpEvaluation_Click);
-            // 
-            // picScores
-            // 
-            this.picScores.BackColor = System.Drawing.Color.Transparent;
-            this.picScores.Location = new System.Drawing.Point(122, 307);
-            this.picScores.Margin = new System.Windows.Forms.Padding(2);
-            this.picScores.Name = "picScores";
-            this.picScores.Size = new System.Drawing.Size(891, 352);
-            this.picScores.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.picScores.TabIndex = 19;
-            this.picScores.TabStop = false;
-            this.picScores.Visible = false;
-            this.picScores.Click += new System.EventHandler(this.picScores_Click);
-            // 
             // frmEvaluation
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.ClientSize = new System.Drawing.Size(1030, 670);
+            this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.picHelpEvaluation);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.picScores);
@@ -629,6 +643,16 @@
             this.Load += new System.EventHandler(this.frmDosChanchitos_Load);
             this.MouseClick += new System.Windows.Forms.MouseEventHandler(this.frmEvaluation_MouseClick);
             this.groupBox3.ResumeLayout(false);
+            this.groupBox1.ResumeLayout(false);
+            this.grbRespuestas.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picHelpEvaluation)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picScores)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picHelp)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCheck)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBack)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picTryAgain)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Image2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Image8)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Image4)).EndInit();
@@ -637,7 +661,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.Image3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Image6)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Image5)).EndInit();
-            this.groupBox1.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.RImage1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.VImage1)).EndInit();
@@ -655,14 +678,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.VImage5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.VImage6)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.VImage7)).EndInit();
-            this.grbRespuestas.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.picBack)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picTryAgain)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picCheck)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picHelp)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picHelpEvaluation)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picScores)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -704,5 +719,6 @@
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.PictureBox picHelpEvaluation;
         private System.Windows.Forms.PictureBox picScores;
+        private System.Windows.Forms.PictureBox pictureBox2;
     }
 }

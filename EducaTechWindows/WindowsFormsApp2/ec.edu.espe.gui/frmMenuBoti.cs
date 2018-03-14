@@ -25,7 +25,7 @@ namespace WindowsFormsApp2.ec.edu.espe.gui
         public frmMenuBoti()
         {
 
-            CSound Ayuda = new CSound();
+            //CSound Ayuda = new CSound();
 
 
             InitializeComponent();
@@ -49,7 +49,7 @@ namespace WindowsFormsApp2.ec.edu.espe.gui
                 btnLevel3.Show();
                 picBlock2.Hide();
             }
-            Ayuda.HelpSound(picHelp);
+            //Ayuda.HelpSound(picHelp);
             picHelp.Show();
         }
 
@@ -61,9 +61,10 @@ namespace WindowsFormsApp2.ec.edu.espe.gui
         {
             this.Close();
             HelpFalse.HelpOffSound(picHelp);
-            bool flagSoundGame = true;
-            CSound soundGame = new CSound();
-            soundGame.SoundGame(flagSoundGame);
+            //bool flagSoundGame = true;
+            //CSound soundGame = new CSound();
+            //reproductor.URL = Application.StartupPath + @"/images/" + "Help.wav";
+            //soundGame.SoundGame(flagSoundGame);
             frmMenuPrincipal principalMenu = new frmMenuPrincipal();
             principalMenu.Show();
            // this.Hide();
@@ -71,7 +72,7 @@ namespace WindowsFormsApp2.ec.edu.espe.gui
 
         private void frmMenuBoti_Load(object sender, EventArgs e)
         {
-            axWindowsMediaPlayer1.URL = "C:/Users/bryan_000/Downloads/soundGame (online-audio-converter.com).mp3";
+            reproductor.URL = Application.StartupPath + @"/images/" + "Help.wav";
         }
 
         private void btnLevel1_Click(object sender, EventArgs e)

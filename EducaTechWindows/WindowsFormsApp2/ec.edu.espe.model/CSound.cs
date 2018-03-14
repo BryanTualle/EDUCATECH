@@ -136,14 +136,15 @@ namespace WinAppBotiAprende
 
         internal void HelpSound(PictureBox picHelp)
         {
-            ayudaSound = new SoundPlayer(WindowsFormsApp2.Properties.Resources.Help1);
-            ayudaSound.Play();
+            //ayudaSound = new SoundPlayer(WindowsFormsApp2.Properties.Resources.Help1);
+            //ayudaSound.Play();
             picHelp.Show();
         }
         internal void HelpOffSound(PictureBox picHelp)
         {
             ayudaSound = new SoundPlayer(WindowsFormsApp2.Properties.Resources.Help1);
             ayudaSound.Stop();
+            
             picHelp.Hide();
         }
 

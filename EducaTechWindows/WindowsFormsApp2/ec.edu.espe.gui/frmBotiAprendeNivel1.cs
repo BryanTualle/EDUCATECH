@@ -17,6 +17,7 @@ namespace WindowsFormsApp2.ec.edu.espe.gui
         CBotiAprendeNivelI nivel1 = new CBotiAprendeNivelI();
         CScore scores = new CScore();
         bool flagSound = true;
+        bool control = true;
         CSound soundGame = new CSound();
         frmMenuBoti boti;
         int i = 0;
@@ -24,26 +25,31 @@ namespace WindowsFormsApp2.ec.edu.espe.gui
         public frmBotiAprendeNivel1()
         {
             InitializeComponent();
+            
             boti = new frmMenuBoti();
-            nivel1.juego(PanelJuego, esconderCartas, abrirCartas, lblScores, picScores, picHelp, boti.BtnLevel2, ScoreTime);
-
+            nivel1.juego(PanelJuego, esconderCartas, abrirCartas, lblScores, picScores, picHelp, boti.BtnLevel2, ScoreTime, reproductor);
         }
 
         private void frmBotiAprendeNivel1_Load(object sender, EventArgs e)
         {
             soundGame.SoundGame(flagSound);
+            //picControl.SendToBack();
+            //picControl.BackColor = Color.Red;
         }
 
         private void btnHelp_Click(object sender, EventArgs e)
         {
+            reproductor.URL = Application.StartupPath + @"/images/" + "Help.wav";
             CSound Ayuda = new CSound();
             Ayuda.HelpSound(picHelp);
         }
 
         private void btnRestart_Click(object sender, EventArgs e)
         {
+            abrirCartas.Stop();
+            abrirCartas.Start();
             soundGame.SoundGame(flagSound);
-            nivel1.juego(PanelJuego, esconderCartas, abrirCartas, lblScores, picScores, picHelp, boti.BtnLevel2, ScoreTime);
+            nivel1.juego(PanelJuego, esconderCartas, abrirCartas, lblScores, picScores, picHelp, boti.BtnLevel2, ScoreTime, reproductor);
             picHelp.Hide();
             PanelJuego.Hide();
             PanelJuego.Show();
@@ -54,6 +60,7 @@ namespace WindowsFormsApp2.ec.edu.espe.gui
             frmMenuBoti menu = new frmMenuBoti();
             menu.Show();
             this.Hide();
+            reproductor.close();
         }
 
         private void esconderCartas_Tick(object sender, EventArgs e)
@@ -103,6 +110,32 @@ namespace WindowsFormsApp2.ec.edu.espe.gui
                 menu.Show();
                 this.Hide();
             }
+        }
+
+        private void frmBotiAprendeNivel1_MouseClick(object sender, MouseEventArgs e)
+        {
+            reproductor.close();
+            picHelp.Hide();
+        }
+
+        private void PanelJuego_MouseClick(object sender, MouseEventArgs e)
+        {
+            
+        }
+
+        private void picScores_MouseClick(object sender, MouseEventArgs e)
+        {
+            
+        }
+
+        private void picControl_MouseClick(object sender, MouseEventArgs e)
+        {
+           
+        }
+
+        private void picHelp_MouseClick(object sender, MouseEventArgs e)
+        {
+            
         }
     }
 }

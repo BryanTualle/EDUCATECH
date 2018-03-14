@@ -17,6 +17,9 @@ namespace WindowsFormsApp2
         private string[] picture1 = new string[] { "TC1.jpg", "TC2.jpg", "TC3.jpg", "TC4.jpg", "TC5.jpg", "TC6.jpg",
             "TC7.jpg", "TC8.jpg", "HG9.jpg", "HG10.jpg", "HG11.jpg", "HG12.jpg", "HG13.jpg", "HG14.jpg", "HG15.jpg",
             "HG16.jpg", "TCTitle.png", "HGTitle.png" };
+        private string[] picture2 = new string[] { "HG9.jpg", "HG10.jpg", "HG11.jpg", "HG12.jpg", "HG13.jpg", "HG14.jpg", "HG15.jpg",
+            "HG16.jpg","TC1.jpg", "TC2.jpg", "TC3.jpg", "TC4.jpg", "TC5.jpg", "TC6.jpg",
+            "TC7.jpg", "TC8.jpg",  "TCTitle.png", "HGTitle.png" };
 
         private string[] efectsNormal = new string[] { "btnTresCerditos_M1.png", "btnHanselGrettel_M1.png", "btnHelp_M1.png",
             "btnHome_M1.png", "btnReturn_M1.png", "btnNext_M1.png", "btnPreview_M1.png", "btnContinue_M1.png", "btnTryAgain_M1.png",
@@ -60,6 +63,13 @@ namespace WindowsFormsApp2
             myBitmap = new Bitmap(Application.StartupPath + @"/images/" + picture1[position]);
             pic1.Image=myBitmap;
             pic1.ImageLocation = Application.StartupPath + @"/images/" + picture1[position];
+            pic1.BackColor = Color.Transparent;
+        }
+        public void loadPictureBox2(PictureBox pic1, int position)
+        {
+            myBitmap = new Bitmap(Application.StartupPath + @"/images/" + picture2[position]);
+            pic1.Image = myBitmap;
+            pic1.ImageLocation = Application.StartupPath + @"/images/" + picture2[position];
             pic1.BackColor = Color.Transparent;
         }
         //carga Titulos de cuentos

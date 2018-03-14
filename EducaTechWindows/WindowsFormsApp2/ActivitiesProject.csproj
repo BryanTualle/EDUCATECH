@@ -756,5 +756,26 @@
   <ItemGroup>
     <None Include="bin\Debug\images\btnHomePrincipal_M1.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\educatech.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\educatech1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\book2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\btnContinue_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\btnContinue_M2.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

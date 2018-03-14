@@ -32,7 +32,7 @@ namespace WinAppBotiAprende
         public PictureBox CartaTemporal21 { get => CartaTemporal2; set => CartaTemporal2 = value; }
         public PictureBox[] CartaTemporal3 { get => CartaTemporal; set => CartaTemporal = value; }
 
-        public void juego(Panel PanelJuego, Timer esconderCartas, Timer abrirCartas, Label lblScores, PictureBox picScores, PictureBox picHelp, Button btnLevel3, Timer timeScore)
+        public void juego(Panel PanelJuego, Timer esconderCartas, Timer abrirCartas, Label lblScores, PictureBox picScores, PictureBox picHelp, Button btnLevel3, Timer timeScore, AxWMPLib.AxWindowsMediaPlayer player)
         {
             
             esconderCartas.Enabled = false;
@@ -79,6 +79,7 @@ namespace WinAppBotiAprende
                     CartasJuego.VisibleChanged += show;
                     CartasJuego.Cursor = Cursors.Hand;
                     CartasJuego.Click += selection;
+                    player.close();
                     tablaPanel.Controls.Add(CartasJuego, j, i);
                     contadorFichas++;
                 }
@@ -126,7 +127,8 @@ namespace WinAppBotiAprende
 
             void selection(object sender, EventArgs e)
             {
-
+                player.close();
+                picHelp.Hide();
                 if (CartasSeleccionadas.Count < 2)
                 {
                     Movimientos++;

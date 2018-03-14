@@ -29,21 +29,24 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmBotiAprendeNivel1));
             this.lblScores = new System.Windows.Forms.Label();
             this.PanelJuego = new System.Windows.Forms.Panel();
+            this.picHelp = new System.Windows.Forms.PictureBox();
             this.picScores = new System.Windows.Forms.PictureBox();
             this.btnExit = new System.Windows.Forms.Label();
             this.btnRestart = new System.Windows.Forms.Label();
             this.esconderCartas = new System.Windows.Forms.Timer(this.components);
             this.abrirCartas = new System.Windows.Forms.Timer(this.components);
             this.btnHelp = new System.Windows.Forms.PictureBox();
-            this.picHelp = new System.Windows.Forms.PictureBox();
             this.ScoreTime = new System.Windows.Forms.Timer(this.components);
             this.timerGrades = new System.Windows.Forms.Label();
+            this.reproductor = new AxWMPLib.AxWindowsMediaPlayer();
             this.PanelJuego.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.picHelp)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picScores)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.btnHelp)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picHelp)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.reproductor)).BeginInit();
             this.SuspendLayout();
             // 
             // lblScores
@@ -68,6 +71,21 @@
             this.PanelJuego.Name = "PanelJuego";
             this.PanelJuego.Size = new System.Drawing.Size(812, 561);
             this.PanelJuego.TabIndex = 45;
+            this.PanelJuego.MouseClick += new System.Windows.Forms.MouseEventHandler(this.PanelJuego_MouseClick);
+            // 
+            // picHelp
+            // 
+            this.picHelp.BackColor = System.Drawing.Color.Transparent;
+            this.picHelp.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.picHelp.Image = global::WindowsFormsApp2.Properties.Resources.botiAprende;
+            this.picHelp.Location = new System.Drawing.Point(330, 4);
+            this.picHelp.Name = "picHelp";
+            this.picHelp.Size = new System.Drawing.Size(113, 92);
+            this.picHelp.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picHelp.TabIndex = 49;
+            this.picHelp.TabStop = false;
+            this.picHelp.Visible = false;
+            this.picHelp.MouseClick += new System.Windows.Forms.MouseEventHandler(this.picHelp_MouseClick);
             // 
             // picScores
             // 
@@ -79,6 +97,7 @@
             this.picScores.TabIndex = 23;
             this.picScores.TabStop = false;
             this.picScores.Visible = false;
+            this.picScores.MouseClick += new System.Windows.Forms.MouseEventHandler(this.picScores_MouseClick);
             // 
             // btnExit
             // 
@@ -127,25 +146,13 @@
             this.btnHelp.Cursor = System.Windows.Forms.Cursors.Help;
             this.btnHelp.ErrorImage = null;
             this.btnHelp.Image = global::WindowsFormsApp2.Properties.Resources.h;
-            this.btnHelp.Location = new System.Drawing.Point(915, 28);
+            this.btnHelp.Location = new System.Drawing.Point(802, 4);
             this.btnHelp.Name = "btnHelp";
-            this.btnHelp.Size = new System.Drawing.Size(80, 76);
+            this.btnHelp.Size = new System.Drawing.Size(106, 83);
+            this.btnHelp.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.btnHelp.TabIndex = 50;
             this.btnHelp.TabStop = false;
             this.btnHelp.Click += new System.EventHandler(this.btnHelp_Click);
-            // 
-            // picHelp
-            // 
-            this.picHelp.BackColor = System.Drawing.Color.Transparent;
-            this.picHelp.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.picHelp.Image = global::WindowsFormsApp2.Properties.Resources.botiAprende;
-            this.picHelp.Location = new System.Drawing.Point(278, 4);
-            this.picHelp.Name = "picHelp";
-            this.picHelp.Size = new System.Drawing.Size(122, 100);
-            this.picHelp.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.picHelp.TabIndex = 49;
-            this.picHelp.TabStop = false;
-            this.picHelp.Visible = false;
             // 
             // ScoreTime
             // 
@@ -162,28 +169,41 @@
             this.timerGrades.Size = new System.Drawing.Size(0, 13);
             this.timerGrades.TabIndex = 51;
             // 
+            // reproductor
+            // 
+            this.reproductor.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.reproductor.Enabled = true;
+            this.reproductor.Location = new System.Drawing.Point(802, 37);
+            this.reproductor.Name = "reproductor";
+            this.reproductor.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("reproductor.OcxState")));
+            this.reproductor.Size = new System.Drawing.Size(211, 35);
+            this.reproductor.TabIndex = 52;
+            // 
             // frmBotiAprendeNivel1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::WindowsFormsApp2.Properties.Resources.med3;
             this.ClientSize = new System.Drawing.Size(1024, 717);
+            this.Controls.Add(this.picHelp);
+            this.Controls.Add(this.btnHelp);
+            this.Controls.Add(this.reproductor);
             this.Controls.Add(this.lblScores);
             this.Controls.Add(this.PanelJuego);
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.btnRestart);
-            this.Controls.Add(this.btnHelp);
-            this.Controls.Add(this.picHelp);
             this.Controls.Add(this.timerGrades);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "frmBotiAprendeNivel1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmBotiAprendeNivel1";
             this.Load += new System.EventHandler(this.frmBotiAprendeNivel1_Load);
+            this.MouseClick += new System.Windows.Forms.MouseEventHandler(this.frmBotiAprendeNivel1_MouseClick);
             this.PanelJuego.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.picHelp)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picScores)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.btnHelp)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picHelp)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.reproductor)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -193,7 +213,6 @@
 
         private System.Windows.Forms.Label lblScores;
         private System.Windows.Forms.Panel PanelJuego;
-        private System.Windows.Forms.PictureBox picScores;
         private System.Windows.Forms.Label btnExit;
         private System.Windows.Forms.Label btnRestart;
         private System.Windows.Forms.Timer esconderCartas;
@@ -202,5 +221,7 @@
         private System.Windows.Forms.PictureBox picHelp;
         private System.Windows.Forms.Timer ScoreTime;
         private System.Windows.Forms.Label timerGrades;
+        private System.Windows.Forms.PictureBox picScores;
+        private AxWMPLib.AxWindowsMediaPlayer reproductor;
     }
 }
