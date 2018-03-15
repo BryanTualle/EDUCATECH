@@ -777,5 +777,23 @@
   <ItemGroup>
     <None Include="bin\Debug\images\btnContinue_M2.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnReturn_M11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnCuentos_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnGameBotiAprende_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnGameJirenSec_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnReturn_M12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnContinueGame_M1.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

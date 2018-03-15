@@ -78,10 +78,10 @@
             // picTitle
             // 
             this.picTitle.BackColor = System.Drawing.Color.Transparent;
-            this.picTitle.Location = new System.Drawing.Point(206, 11);
-            this.picTitle.Margin = new System.Windows.Forms.Padding(2);
+            this.picTitle.Location = new System.Drawing.Point(275, 14);
+            this.picTitle.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.picTitle.Name = "picTitle";
-            this.picTitle.Size = new System.Drawing.Size(624, 96);
+            this.picTitle.Size = new System.Drawing.Size(832, 118);
             this.picTitle.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picTitle.TabIndex = 20;
             this.picTitle.TabStop = false;
@@ -89,10 +89,10 @@
             // picImage4
             // 
             this.picImage4.BackColor = System.Drawing.Color.Transparent;
-            this.picImage4.Location = new System.Drawing.Point(566, 346);
-            this.picImage4.Margin = new System.Windows.Forms.Padding(2);
+            this.picImage4.Location = new System.Drawing.Point(755, 426);
+            this.picImage4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.picImage4.Name = "picImage4";
-            this.picImage4.Size = new System.Drawing.Size(300, 200);
+            this.picImage4.Size = new System.Drawing.Size(400, 246);
             this.picImage4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picImage4.TabIndex = 19;
             this.picImage4.TabStop = false;
@@ -101,10 +101,10 @@
             // picImage3
             // 
             this.picImage3.BackColor = System.Drawing.Color.Transparent;
-            this.picImage3.Location = new System.Drawing.Point(100, 346);
-            this.picImage3.Margin = new System.Windows.Forms.Padding(2);
+            this.picImage3.Location = new System.Drawing.Point(133, 426);
+            this.picImage3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.picImage3.Name = "picImage3";
-            this.picImage3.Size = new System.Drawing.Size(300, 200);
+            this.picImage3.Size = new System.Drawing.Size(400, 246);
             this.picImage3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picImage3.TabIndex = 18;
             this.picImage3.TabStop = false;
@@ -113,10 +113,10 @@
             // picImage1
             // 
             this.picImage1.BackColor = System.Drawing.Color.Transparent;
-            this.picImage1.Location = new System.Drawing.Point(108, 122);
-            this.picImage1.Margin = new System.Windows.Forms.Padding(2);
+            this.picImage1.Location = new System.Drawing.Point(144, 150);
+            this.picImage1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.picImage1.Name = "picImage1";
-            this.picImage1.Size = new System.Drawing.Size(300, 200);
+            this.picImage1.Size = new System.Drawing.Size(400, 246);
             this.picImage1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picImage1.TabIndex = 17;
             this.picImage1.TabStop = false;
@@ -153,9 +153,10 @@
             // picImage2
             // 
             this.picImage2.BackColor = System.Drawing.Color.Transparent;
-            this.picImage2.Location = new System.Drawing.Point(566, 122);
+            this.picImage2.Location = new System.Drawing.Point(755, 150);
+            this.picImage2.Margin = new System.Windows.Forms.Padding(4);
             this.picImage2.Name = "picImage2";
-            this.picImage2.Size = new System.Drawing.Size(300, 200);
+            this.picImage2.Size = new System.Drawing.Size(400, 246);
             this.picImage2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picImage2.TabIndex = 21;
             this.picImage2.TabStop = false;
@@ -168,10 +169,11 @@
             // picNextPage
             // 
             this.picNextPage.BackColor = System.Drawing.Color.Transparent;
-            this.picNextPage.Image = ((System.Drawing.Image)(resources.GetObject("picNextPage.Image")));
-            this.picNextPage.Location = new System.Drawing.Point(666, 575);
+            this.picNextPage.Image = global::WindowsFormsApp2.Properties.Resources.btnContinueGame_M1;
+            this.picNextPage.Location = new System.Drawing.Point(888, 708);
+            this.picNextPage.Margin = new System.Windows.Forms.Padding(4);
             this.picNextPage.Name = "picNextPage";
-            this.picNextPage.Size = new System.Drawing.Size(75, 81);
+            this.picNextPage.Size = new System.Drawing.Size(100, 100);
             this.picNextPage.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picNextPage.TabIndex = 22;
             this.picNextPage.TabStop = false;
@@ -186,6 +188,7 @@
             // 
             this.reproductor.Enabled = true;
             this.reproductor.Location = new System.Drawing.Point(830, 731);
+            this.reproductor.Margin = new System.Windows.Forms.Padding(4);
             this.reproductor.Name = "reproductor";
             this.reproductor.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("reproductor.OcxState")));
             this.reproductor.Size = new System.Drawing.Size(256, 63);
@@ -196,9 +199,10 @@
             // 
             this.picPlay.BackColor = System.Drawing.Color.Transparent;
             this.picPlay.Image = global::WindowsFormsApp2.Properties.Resources.btnPlay_M1;
-            this.picPlay.Location = new System.Drawing.Point(460, 575);
+            this.picPlay.Location = new System.Drawing.Point(613, 708);
+            this.picPlay.Margin = new System.Windows.Forms.Padding(4);
             this.picPlay.Name = "picPlay";
-            this.picPlay.Size = new System.Drawing.Size(75, 81);
+            this.picPlay.Size = new System.Drawing.Size(100, 100);
             this.picPlay.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picPlay.TabIndex = 29;
             this.picPlay.TabStop = false;
@@ -210,9 +214,10 @@
             // 
             this.picBack.BackColor = System.Drawing.Color.Transparent;
             this.picBack.Image = global::WindowsFormsApp2.Properties.Resources.btnPreview_M1;
-            this.picBack.Location = new System.Drawing.Point(363, 577);
+            this.picBack.Location = new System.Drawing.Point(484, 710);
+            this.picBack.Margin = new System.Windows.Forms.Padding(4);
             this.picBack.Name = "picBack";
-            this.picBack.Size = new System.Drawing.Size(75, 81);
+            this.picBack.Size = new System.Drawing.Size(100, 100);
             this.picBack.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picBack.TabIndex = 30;
             this.picBack.TabStop = false;
@@ -224,9 +229,10 @@
             // 
             this.picNext.BackColor = System.Drawing.Color.Transparent;
             this.picNext.Image = global::WindowsFormsApp2.Properties.Resources.btnNext_M1;
-            this.picNext.Location = new System.Drawing.Point(553, 577);
+            this.picNext.Location = new System.Drawing.Point(737, 710);
+            this.picNext.Margin = new System.Windows.Forms.Padding(4);
             this.picNext.Name = "picNext";
-            this.picNext.Size = new System.Drawing.Size(75, 81);
+            this.picNext.Size = new System.Drawing.Size(100, 100);
             this.picNext.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picNext.TabIndex = 31;
             this.picNext.TabStop = false;
@@ -238,6 +244,7 @@
             // 
             this.player.Enabled = true;
             this.player.Location = new System.Drawing.Point(807, 11);
+            this.player.Margin = new System.Windows.Forms.Padding(4);
             this.player.Name = "player";
             this.player.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("player.OcxState")));
             this.player.Size = new System.Drawing.Size(211, 34);
@@ -246,65 +253,74 @@
             // picNumber4
             // 
             this.picNumber4.BackColor = System.Drawing.Color.Transparent;
-            this.picNumber4.Location = new System.Drawing.Point(509, 389);
+            this.picNumber4.Location = new System.Drawing.Point(679, 479);
+            this.picNumber4.Margin = new System.Windows.Forms.Padding(4);
             this.picNumber4.Name = "picNumber4";
-            this.picNumber4.Size = new System.Drawing.Size(58, 96);
+            this.picNumber4.Size = new System.Drawing.Size(77, 118);
             this.picNumber4.TabIndex = 40;
             this.picNumber4.TabStop = false;
             // 
             // picNumber3
             // 
             this.picNumber3.BackColor = System.Drawing.Color.Transparent;
-            this.picNumber3.Location = new System.Drawing.Point(42, 389);
+            this.picNumber3.Location = new System.Drawing.Point(56, 479);
+            this.picNumber3.Margin = new System.Windows.Forms.Padding(4);
             this.picNumber3.Name = "picNumber3";
-            this.picNumber3.Size = new System.Drawing.Size(58, 96);
+            this.picNumber3.Size = new System.Drawing.Size(77, 118);
             this.picNumber3.TabIndex = 39;
             this.picNumber3.TabStop = false;
             // 
             // picNumber2
             // 
             this.picNumber2.BackColor = System.Drawing.Color.Transparent;
-            this.picNumber2.Location = new System.Drawing.Point(509, 164);
+            this.picNumber2.Location = new System.Drawing.Point(679, 202);
+            this.picNumber2.Margin = new System.Windows.Forms.Padding(4);
             this.picNumber2.Name = "picNumber2";
-            this.picNumber2.Size = new System.Drawing.Size(58, 96);
+            this.picNumber2.Size = new System.Drawing.Size(77, 118);
             this.picNumber2.TabIndex = 38;
             this.picNumber2.TabStop = false;
             // 
             // picNumber1
             // 
             this.picNumber1.BackColor = System.Drawing.Color.Transparent;
-            this.picNumber1.Location = new System.Drawing.Point(50, 164);
+            this.picNumber1.Location = new System.Drawing.Point(67, 202);
+            this.picNumber1.Margin = new System.Windows.Forms.Padding(4);
             this.picNumber1.Name = "picNumber1";
-            this.picNumber1.Size = new System.Drawing.Size(58, 96);
+            this.picNumber1.Size = new System.Drawing.Size(77, 118);
             this.picNumber1.TabIndex = 37;
             this.picNumber1.TabStop = false;
             // 
             // btnMenuJirenSec
             // 
             this.btnMenuJirenSec.BackColor = System.Drawing.Color.Transparent;
-            this.btnMenuJirenSec.BackgroundImage = global::WindowsFormsApp2.Properties.Resources.btnReturn_M1;
-            this.btnMenuJirenSec.Location = new System.Drawing.Point(12, 9);
+            this.btnMenuJirenSec.Image = global::WindowsFormsApp2.Properties.Resources.btnReturn_M12;
+            this.btnMenuJirenSec.Location = new System.Drawing.Point(16, 11);
+            this.btnMenuJirenSec.Margin = new System.Windows.Forms.Padding(4);
             this.btnMenuJirenSec.Name = "btnMenuJirenSec";
-            this.btnMenuJirenSec.Size = new System.Drawing.Size(100, 98);
+            this.btnMenuJirenSec.Size = new System.Drawing.Size(100, 100);
+            this.btnMenuJirenSec.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.btnMenuJirenSec.TabIndex = 41;
             this.btnMenuJirenSec.TabStop = false;
             this.btnMenuJirenSec.Click += new System.EventHandler(this.btnMenuJirenSec_Click);
+            this.btnMenuJirenSec.MouseEnter += new System.EventHandler(this.btnMenuJirenSec_MouseEnter);
+            this.btnMenuJirenSec.MouseLeave += new System.EventHandler(this.btnMenuJirenSec_MouseLeave);
             // 
             // picHide
             // 
             this.picHide.BackColor = System.Drawing.Color.Transparent;
-            this.picHide.Location = new System.Drawing.Point(829, 11);
+            this.picHide.Location = new System.Drawing.Point(1105, 14);
+            this.picHide.Margin = new System.Windows.Forms.Padding(4);
             this.picHide.Name = "picHide";
-            this.picHide.Size = new System.Drawing.Size(91, 50);
+            this.picHide.Size = new System.Drawing.Size(121, 62);
             this.picHide.TabIndex = 42;
             this.picHide.TabStop = false;
             // 
             // frmStory
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::WindowsFormsApp2.Properties.Resources.fondo_2;
-            this.ClientSize = new System.Drawing.Size(1030, 670);
+            this.ClientSize = new System.Drawing.Size(1373, 825);
             this.Controls.Add(this.picHide);
             this.Controls.Add(this.btnMenuJirenSec);
             this.Controls.Add(this.picNumber4);
@@ -323,6 +339,7 @@
             this.Controls.Add(this.picImage2);
             this.Controls.Add(this.player);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmStory";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "JirenSec";

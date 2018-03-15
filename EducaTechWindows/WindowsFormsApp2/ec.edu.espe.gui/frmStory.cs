@@ -373,5 +373,15 @@ namespace WindowsFormsApp2
             menu.Show();
             this.Close();
         }
+
+        private void btnMenuJirenSec_MouseEnter(object sender, EventArgs e)
+        {
+            imag.effectEnter(btnMenuJirenSec, 4);
+        }
+
+        private void btnMenuJirenSec_MouseLeave(object sender, EventArgs e)
+        {
+            imag.effectNormal(btnMenuJirenSec, 4);
+        }
     }
 }

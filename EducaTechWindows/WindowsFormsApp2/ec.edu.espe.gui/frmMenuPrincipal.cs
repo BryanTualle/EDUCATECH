@@ -71,26 +71,6 @@ namespace WinAppEducaTech
             this.Hide();
         }
 
-        private void picBotiAprende_MouseEnter(object sender, EventArgs e)
-        {
-            image.effectEnter(picBotiAprende, 13);
-        }
-
-        private void picBotiAprende_MouseLeave(object sender, EventArgs e)
-        {
-            image.effectNormal(picBotiAprende, 12);
-        }
-
-        private void picJirenSec_MouseEnter(object sender, EventArgs e)
-        {
-            image.effectEnter(picJirenSec, 13);
-        }
-
-        private void picJirenSec_MouseLeave(object sender, EventArgs e)
-        {
-            image.effectNormal(picJirenSec, 12);
-        }
-
         private void picJirenSec_Click(object sender, EventArgs e)
         {
             this.Hide();
@@ -106,6 +86,40 @@ namespace WinAppEducaTech
         private void btnExitApplication_MouseLeave(object sender, EventArgs e)
         {
             image.effectNormal(btnExitApplication, 13);
+        }
+
+        private void picGameBotiAprende_Click(object sender, EventArgs e)
+        {
+            frmMenuBoti Boti = new frmMenuBoti();
+            Boti.Show();
+            this.Hide();
+        }
+
+        private void picGameJirenSec_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            frmMenuJirenSec jiren = new frmMenuJirenSec();
+            jiren.Show();
+        }
+
+        private void picGameBotiAprende_MouseEnter(object sender, EventArgs e)
+        {
+            image.effectEnter(picGameBotiAprende, 16);
+        }
+
+        private void picGameBotiAprende_MouseLeave(object sender, EventArgs e)
+        {
+            image.effectNormal(picGameBotiAprende, 15);
+        }
+
+        private void picGameJirenSec_MouseEnter(object sender, EventArgs e)
+        {
+            image.effectEnter(picGameJirenSec, 17);
+        }
+
+        private void picGameJirenSec_MouseLeave(object sender, EventArgs e)
+        {
+            image.effectNormal(picGameJirenSec, 16);
         }
     }
 }

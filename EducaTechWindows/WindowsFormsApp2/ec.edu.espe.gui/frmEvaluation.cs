@@ -501,13 +501,23 @@ namespace WindowsFormsApp2
             initializa.effectEnter(pictureBox1, 8);
         }
 
-        private void pictureBox2_Click(object sender, EventArgs e)
+        private void picCuentos_Click(object sender, EventArgs e)
         {
             player.Stop();
             this.Hide();
             frmMenuJirenSec menuJirenSec = new frmMenuJirenSec();
-            
+
             menuJirenSec.Show();
+        }
+
+        private void picCuentos_MouseEnter(object sender, EventArgs e)
+        {
+            initializa.effectEnter(picCuentos, 18);
+        }
+
+        private void picCuentos_MouseLeave(object sender, EventArgs e)
+        {
+            initializa.effectNormal(picCuentos, 17);
         }
     }
 }
