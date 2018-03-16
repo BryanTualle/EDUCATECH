@@ -56,9 +56,10 @@
             this.lblScores.BackColor = System.Drawing.Color.Transparent;
             this.lblScores.Font = new System.Drawing.Font("Showcard Gothic", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblScores.ForeColor = System.Drawing.Color.Black;
-            this.lblScores.Location = new System.Drawing.Point(29, 613);
+            this.lblScores.Location = new System.Drawing.Point(39, 754);
+            this.lblScores.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblScores.Name = "lblScores";
-            this.lblScores.Size = new System.Drawing.Size(36, 40);
+            this.lblScores.Size = new System.Drawing.Size(46, 50);
             this.lblScores.TabIndex = 24;
             this.lblScores.Text = "0";
             // 
@@ -68,18 +69,20 @@
             this.PanelJuego.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.PanelJuego.Controls.Add(this.picScores);
             this.PanelJuego.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.PanelJuego.Location = new System.Drawing.Point(99, 12);
+            this.PanelJuego.Location = new System.Drawing.Point(132, 15);
+            this.PanelJuego.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.PanelJuego.Name = "PanelJuego";
-            this.PanelJuego.Size = new System.Drawing.Size(812, 686);
+            this.PanelJuego.Size = new System.Drawing.Size(1083, 844);
             this.PanelJuego.TabIndex = 23;
             // 
             // picScores
             // 
             this.picScores.BackColor = System.Drawing.Color.Transparent;
             this.picScores.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.picScores.Location = new System.Drawing.Point(125, 39);
+            this.picScores.Location = new System.Drawing.Point(163, 107);
+            this.picScores.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.picScores.Name = "picScores";
-            this.picScores.Size = new System.Drawing.Size(625, 522);
+            this.picScores.Size = new System.Drawing.Size(833, 642);
             this.picScores.TabIndex = 24;
             this.picScores.TabStop = false;
             this.picScores.Visible = false;
@@ -92,9 +95,10 @@
             this.btnRestart.Font = new System.Drawing.Font("Microsoft Sans Serif", 50.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnRestart.ForeColor = System.Drawing.Color.Transparent;
             this.btnRestart.Image = global::WindowsFormsApp2.Properties.Resources.r;
-            this.btnRestart.Location = new System.Drawing.Point(917, 613);
+            this.btnRestart.Location = new System.Drawing.Point(1223, 754);
+            this.btnRestart.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.btnRestart.Name = "btnRestart";
-            this.btnRestart.Size = new System.Drawing.Size(69, 76);
+            this.btnRestart.Size = new System.Drawing.Size(84, 95);
             this.btnRestart.TabIndex = 25;
             this.btnRestart.Text = "  ";
             this.btnRestart.Click += new System.EventHandler(this.btnRestart_Click);
@@ -107,9 +111,10 @@
             this.btnExit.Font = new System.Drawing.Font("Microsoft Sans Serif", 50.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnExit.ForeColor = System.Drawing.Color.Transparent;
             this.btnExit.Image = global::WindowsFormsApp2.Properties.Resources.t;
-            this.btnExit.Location = new System.Drawing.Point(12, 19);
+            this.btnExit.Location = new System.Drawing.Point(16, 23);
+            this.btnExit.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.btnExit.Name = "btnExit";
-            this.btnExit.Size = new System.Drawing.Size(69, 76);
+            this.btnExit.Size = new System.Drawing.Size(84, 95);
             this.btnExit.TabIndex = 26;
             this.btnExit.Text = "  ";
             this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
@@ -130,9 +135,10 @@
             this.picHelp.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.picHelp.Cursor = System.Windows.Forms.Cursors.Hand;
             this.picHelp.Image = global::WindowsFormsApp2.Properties.Resources.botiAprende;
-            this.picHelp.Location = new System.Drawing.Point(903, 209);
+            this.picHelp.Location = new System.Drawing.Point(1204, 257);
+            this.picHelp.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.picHelp.Name = "picHelp";
-            this.picHelp.Size = new System.Drawing.Size(109, 82);
+            this.picHelp.Size = new System.Drawing.Size(145, 101);
             this.picHelp.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picHelp.TabIndex = 28;
             this.picHelp.TabStop = false;
@@ -148,9 +154,10 @@
             this.timerGrades.BackColor = System.Drawing.Color.Transparent;
             this.timerGrades.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.timerGrades.ForeColor = System.Drawing.Color.Transparent;
-            this.timerGrades.Location = new System.Drawing.Point(950, 86);
+            this.timerGrades.Location = new System.Drawing.Point(1267, 106);
+            this.timerGrades.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.timerGrades.Name = "timerGrades";
-            this.timerGrades.Size = new System.Drawing.Size(0, 13);
+            this.timerGrades.Size = new System.Drawing.Size(0, 17);
             this.timerGrades.TabIndex = 29;
             // 
             // btnHelp
@@ -160,9 +167,10 @@
             this.btnHelp.Cursor = System.Windows.Forms.Cursors.Help;
             this.btnHelp.ErrorImage = null;
             this.btnHelp.Image = global::WindowsFormsApp2.Properties.Resources.h;
-            this.btnHelp.Location = new System.Drawing.Point(906, 0);
+            this.btnHelp.Location = new System.Drawing.Point(1208, 0);
+            this.btnHelp.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnHelp.Name = "btnHelp";
-            this.btnHelp.Size = new System.Drawing.Size(106, 83);
+            this.btnHelp.Size = new System.Drawing.Size(141, 102);
             this.btnHelp.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.btnHelp.TabIndex = 53;
             this.btnHelp.TabStop = false;
@@ -173,6 +181,7 @@
             this.reproductor.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.reproductor.Enabled = true;
             this.reproductor.Location = new System.Drawing.Point(801, 94);
+            this.reproductor.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.reproductor.Name = "reproductor";
             this.reproductor.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("reproductor.OcxState")));
             this.reproductor.Size = new System.Drawing.Size(211, 35);
@@ -185,10 +194,10 @@
             // 
             // frmBotiAprendeNivel3
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::WindowsFormsApp2.Properties.Resources.med3;
-            this.ClientSize = new System.Drawing.Size(1008, 710);
+            this.ClientSize = new System.Drawing.Size(1344, 874);
             this.Controls.Add(this.btnHelp);
             this.Controls.Add(this.lblScores);
             this.Controls.Add(this.PanelJuego);
@@ -198,6 +207,7 @@
             this.Controls.Add(this.timerGrades);
             this.Controls.Add(this.reproductor);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "frmBotiAprendeNivel3";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmBotiAprendeNivel3";
