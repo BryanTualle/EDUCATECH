@@ -1,0 +1,805 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FCEA027B-E2C8-4C25-B2BB-F57058711B88}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp2</RootNamespace>
+    <AssemblyName>WindowsFormsApp2</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MACTrackBarLib, Version=1.0.5896.38740, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MACTrackBarLib.dll.1.0.2\lib\net40\MACTrackBarLib.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ec.edu.espe.gui\frmBotiAprendeNivel1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ec.edu.espe.gui\frmBotiAprendeNivel1.Designer.cs">
+      <DependentUpon>frmBotiAprendeNivel1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ec.edu.espe.gui\frmBotiAprendeNivel2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ec.edu.espe.gui\frmBotiAprendeNivel2.Designer.cs">
+      <DependentUpon>frmBotiAprendeNivel2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ec.edu.espe.gui\frmBotiAprendeNivel3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ec.edu.espe.gui\frmBotiAprendeNivel3.Designer.cs">
+      <DependentUpon>frmBotiAprendeNivel3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ec.edu.espe.gui\frmMenuBoti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ec.edu.espe.gui\frmMenuBoti.Designer.cs">
+      <DependentUpon>frmMenuBoti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ec.edu.espe.gui\frmMenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ec.edu.espe.gui\frmMenuPrincipal.Designer.cs">
+      <DependentUpon>frmMenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ec.edu.espe.model\CBotiAprendeNivelI.cs" />
+    <Compile Include="ec.edu.espe.model\CBotiAprendeNivelII.cs" />
+    <Compile Include="ec.edu.espe.model\CBotiAprendeNivelIII.cs" />
+    <Compile Include="ec.edu.espe.model\CDragAndDrop.cs" />
+    <Compile Include="ec.edu.espe.model\CInitializeImage.cs" />
+    <Compile Include="ec.edu.espe.model\CPlay.cs" />
+    <Compile Include="ec.edu.espe.model\CRandom.cs" />
+    <Compile Include="ec.edu.espe.model\CScore.cs" />
+    <Compile Include="ec.edu.espe.model\CScores.cs" />
+    <Compile Include="ec.edu.espe.model\CSound.cs" />
+    <Compile Include="ec.edu.espe.model\CTimer.cs" />
+    <Compile Include="ec.edu.espe.gui\frmEvaluation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ec.edu.espe.gui\frmEvaluation.Designer.cs">
+      <DependentUpon>frmEvaluation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ec.edu.espe.gui\frmMenuJirenSec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ec.edu.espe.gui\frmMenuJirenSec.Designer.cs">
+      <DependentUpon>frmMenuJirenSec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ec.edu.espe.gui\frmStory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ec.edu.espe.gui\frmStory.Designer.cs">
+      <DependentUpon>frmStory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ec.edu.espe.testing\FinalProject.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ec.edu.espe.gui\frmBotiAprendeNivel1.resx">
+      <DependentUpon>frmBotiAprendeNivel1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ec.edu.espe.gui\frmBotiAprendeNivel2.resx">
+      <DependentUpon>frmBotiAprendeNivel2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ec.edu.espe.gui\frmBotiAprendeNivel3.resx">
+      <DependentUpon>frmBotiAprendeNivel3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ec.edu.espe.gui\frmEvaluation.resx">
+      <DependentUpon>frmEvaluation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ec.edu.espe.gui\frmMenuBoti.resx">
+      <DependentUpon>frmMenuBoti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ec.edu.espe.gui\frmMenuJirenSec.resx">
+      <DependentUpon>frmMenuJirenSec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ec.edu.espe.gui\frmMenuPrincipal.resx">
+      <DependentUpon>frmMenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ec.edu.espe.gui\frmStory.resx">
+      <DependentUpon>frmStory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\btnPlay_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FONDO PRINCIPAL.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FONDO PRINCIPAL2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\juguemos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\juguemos1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\juguemos2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\juguemos3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\principalMenu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound-157173_960_720.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SoundOff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WALL.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WALL2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WALLPAPER.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\audio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bad.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnBegin_M2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnCheck_M2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnContinue_M2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnExit_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnExit_M2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnHanselGrettel_M2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnHanselGrettel_M3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnHelp_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnHelp_M2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnHelp_M3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnHome_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnHome_M2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnHome_M3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnNext_M2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnPlay_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnPlay_M2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnPreview_M2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnReturn_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnReturn_M2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnReturn_M3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnTresCerditos_M2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnTresCerditos_M3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnTryAgain_M2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cinco.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cuatro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\good.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\good.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG16.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HGTitle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ocho.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seis.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SerieMarcasAgua.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\siete.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TC1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TC2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TC3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TC4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TC5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TC6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TC7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TCTitle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\titlePage.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tres.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uno.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\verygood.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\verygood.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1ed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\27901966_1651605564930478_1737820816_o.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnBegin_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnCheck_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnContinue_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnHanselGrettel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnHanselGrettel_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnNext_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnPreview_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnTresCerditos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnTresCerditos_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnTresCerditosSub.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnTryAgain_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casa1Destruida.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casa1Destruida1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casa3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chibi-2380489_640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\final.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\final2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\huida1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\huida2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\no4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\portada2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\portada21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\portada22.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TC8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\the-button-1161335_640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\titulos.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\titulos1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ap.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botiAprende.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botiquin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\education.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Enter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondoBoti.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondoMedicina.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\h.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\med.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\med1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\med2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\med3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nivel1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nivel2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nivel2_lock.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nivel2lock.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nivel3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nivel3lock.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playgo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playgo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\point.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\por.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Portada.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PrincipalBoti.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PrincipalBoti2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PrincipalBotiAprende.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PrincipalBotiAprende1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\r.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\repplay.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\t.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Titulo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Titulo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\very good.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound1.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound2.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound3.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound4.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound5.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound6.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound7.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound8.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound9.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound10.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound11.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\soundGame.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Botiquin.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bueno.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Excelente.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Help.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Help1.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Regular.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botiquin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\btnGame_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\btnExitProgram_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\btnHomePrincipal_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\educatech.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\educatech1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\book2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\btnContinue_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\btnContinue_M2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnReturn_M11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnCuentos_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnGameBotiAprende_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnGameJirenSec_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnReturn_M12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnContinueGame_M1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG161.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo 21.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
