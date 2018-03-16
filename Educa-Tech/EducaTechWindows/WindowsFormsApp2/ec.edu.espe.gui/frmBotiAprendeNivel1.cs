@@ -53,6 +53,7 @@ namespace WindowsFormsApp2.ec.edu.espe.gui
             picHelp.Hide();
             PanelJuego.Hide();
             PanelJuego.Show();
+            ScoreTime.Stop();
         }
 
         private void btnExit_Click(object sender, EventArgs e)
@@ -61,6 +62,7 @@ namespace WindowsFormsApp2.ec.edu.espe.gui
             menu.Show();
             this.Hide();
             reproductor.close();
+            ScoreTime.Stop();
         }
 
         private void esconderCartas_Tick(object sender, EventArgs e)

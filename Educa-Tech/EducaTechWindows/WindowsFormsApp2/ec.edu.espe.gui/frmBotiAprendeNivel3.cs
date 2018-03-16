@@ -38,6 +38,7 @@ namespace WindowsFormsApp2.ec.edu.espe.gui
             picHelp.Hide();
             PanelJuego.Hide();
             PanelJuego.Show();
+            ScoreTime.Stop();
         }
 
         private void btnExit_Click(object sender, EventArgs e)
@@ -46,6 +47,7 @@ namespace WindowsFormsApp2.ec.edu.espe.gui
             menuBotiAprende.Show();
             this.Hide();
             reproductor.close();
+            ScoreTime.Stop();
         }
 
         private void ScoreTime_Tick(object sender, EventArgs e)
